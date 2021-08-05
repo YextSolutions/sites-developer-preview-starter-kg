@@ -1,0 +1,35 @@
+{
+  "$id": "tops",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_relatedProducts": [
+      "top-1",
+      "top-2",
+      "top-3",
+      "top-4",
+      "top-5",
+      "top-6",
+      "top-7",
+      "top-8",
+      "top-9",
+      "top-10",
+      "top-11",
+      "top-12",
+      "top-13",
+      "top-14",
+      "top-15",
+      "top-16",
+      "top-17",
+      "top-18",
+      "top-19",
+      "top-20",
+      "top-21"
+    ],
+    "yext/name": "Tops",
+    "yext/richTextDescription": "Style doesn\u0027t get any simpler than this. Choose from a selection of the very best T\\-shirts, from plain tees with a focus on fit and fabric to the latest new\\-season designer printed tees.",
+    "yext/slug": "[[entityId]].html"
+  },
+  "entityType": "ce_productCategory",
+  "labels": []
+}

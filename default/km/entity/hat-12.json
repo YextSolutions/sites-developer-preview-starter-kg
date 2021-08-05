@@ -1,0 +1,78 @@
+{
+  "$id": "hat-12",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/brand": "Gabriela Hearst",
+    "yext/color": "Blue",
+    "yext/name": "Tie-dyed cashmere and silk-blend bucket hat",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1380,
+          "thumbnails": [
+            {
+              "height": 1380,
+              "url": "http://a.mktgcdn.com/p/L1KSfTUGDuOb3W0Sjw4EkGvTBb8LJnUzQtR1AoaD28Y/920x1380.jpg",
+              "width": 920
+            },
+            {
+              "height": 928,
+              "url": "http://a.mktgcdn.com/p/L1KSfTUGDuOb3W0Sjw4EkGvTBb8LJnUzQtR1AoaD28Y/619x928.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/L1KSfTUGDuOb3W0Sjw4EkGvTBb8LJnUzQtR1AoaD28Y/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p/L1KSfTUGDuOb3W0Sjw4EkGvTBb8LJnUzQtR1AoaD28Y/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/L1KSfTUGDuOb3W0Sjw4EkGvTBb8LJnUzQtR1AoaD28Y/920x1380.jpg",
+          "width": 920
+        }
+      },
+      {
+        "image": {
+          "height": 1380,
+          "thumbnails": [
+            {
+              "height": 1380,
+              "url": "http://a.mktgcdn.com/p/UGYxrUMglgbhWcXOpbmYd0cXyLGUFF-yjkmglm4QtyQ/920x1380.jpg",
+              "width": 920
+            },
+            {
+              "height": 928,
+              "url": "http://a.mktgcdn.com/p/UGYxrUMglgbhWcXOpbmYd0cXyLGUFF-yjkmglm4QtyQ/619x928.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/UGYxrUMglgbhWcXOpbmYd0cXyLGUFF-yjkmglm4QtyQ/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p/UGYxrUMglgbhWcXOpbmYd0cXyLGUFF-yjkmglm4QtyQ/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/UGYxrUMglgbhWcXOpbmYd0cXyLGUFF-yjkmglm4QtyQ/920x1380.jpg",
+          "width": 920
+        }
+      }
+    ],
+    "yext/price": {
+      "currencyCode": "USD",
+      "value": "320"
+    },
+    "yext/richTextDescription": "Gabriela Hearst\u0027s bucket hat is tie-dyed in rainbow swirls, really accentuating the \u002790s-inspired retro vibe. It\u0027s made from cashmere and silk-blend and fully lined to prevent frizz and flyaways.",
+    "yext/slug": "hats/[[entityId]].html"
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

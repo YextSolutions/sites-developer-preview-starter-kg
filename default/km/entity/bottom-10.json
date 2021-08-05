@@ -1,0 +1,74 @@
+{
+  "$id": "bottom-10",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/brand": "Nina Ricci",
+    "yext/color": "Lilac",
+    "yext/name": "Pink Twill Cargo Trousers",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1416,
+          "thumbnails": [
+            {
+              "height": 1416,
+              "url": "http://a.mktgcdn.com/p/V4WodQCb09c3NecOVyGR5ECZgJ-2KMrRpk0fuDQ3nY0/560x1416.jpg",
+              "width": 560
+            },
+            {
+              "height": 1000,
+              "url": "http://a.mktgcdn.com/p/V4WodQCb09c3NecOVyGR5ECZgJ-2KMrRpk0fuDQ3nY0/395x1000.jpg",
+              "width": 395
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/V4WodQCb09c3NecOVyGR5ECZgJ-2KMrRpk0fuDQ3nY0/177x450.jpg",
+              "width": 177
+            },
+            {
+              "height": 400,
+              "url": "http://a.mktgcdn.com/p/V4WodQCb09c3NecOVyGR5ECZgJ-2KMrRpk0fuDQ3nY0/158x400.jpg",
+              "width": 158
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/V4WodQCb09c3NecOVyGR5ECZgJ-2KMrRpk0fuDQ3nY0/560x1416.jpg",
+          "width": 560
+        }
+      },
+      {
+        "image": {
+          "height": 1408,
+          "thumbnails": [
+            {
+              "height": 1408,
+              "url": "http://a.mktgcdn.com/p/qIyjLH5Z7Qwhujjn61JtWxQ-mGgHi7tSqteRoZwmAkc/464x1408.jpg",
+              "width": 464
+            },
+            {
+              "height": 1000,
+              "url": "http://a.mktgcdn.com/p/qIyjLH5Z7Qwhujjn61JtWxQ-mGgHi7tSqteRoZwmAkc/329x1000.jpg",
+              "width": 329
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/qIyjLH5Z7Qwhujjn61JtWxQ-mGgHi7tSqteRoZwmAkc/148x450.jpg",
+              "width": 148
+            },
+            {
+              "height": 400,
+              "url": "http://a.mktgcdn.com/p/qIyjLH5Z7Qwhujjn61JtWxQ-mGgHi7tSqteRoZwmAkc/131x400.jpg",
+              "width": 131
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/qIyjLH5Z7Qwhujjn61JtWxQ-mGgHi7tSqteRoZwmAkc/464x1408.jpg",
+          "width": 464
+        }
+      }
+    ],
+    "yext/richTextDescription": "Straight\\-leg cotton and silk\\-blend twill trousers in pink. High\\-rise. Four\\-pocket styling. Belt loops at waistband. Pleats at front. Flap pocket and hammer loop at outseams. Central creases at back. Zip\\-fly. Partial silk satin lining. Logo\\-engraved grey hardware.",
+    "yext/slug": "bottoms/[[entityId]].html"
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

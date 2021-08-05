@@ -1,0 +1,50 @@
+{
+  "$id": "top-16",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/brand": "Nike",
+    "yext/color": "White/Concord",
+    "yext/name": "FFF 2020 Vapor Match Away",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1080,
+          "thumbnails": [
+            {
+              "height": 1080,
+              "url": "http://a.mktgcdn.com/p/O6tksT-X1BwIMbgUEHDAw-gpD1bl4QYzdUZQOptgJnk/864x1080.jpg",
+              "width": 864
+            },
+            {
+              "height": 773,
+              "url": "http://a.mktgcdn.com/p/O6tksT-X1BwIMbgUEHDAw-gpD1bl4QYzdUZQOptgJnk/619x773.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/O6tksT-X1BwIMbgUEHDAw-gpD1bl4QYzdUZQOptgJnk/360x450.jpg",
+              "width": 360
+            },
+            {
+              "height": 245,
+              "url": "http://a.mktgcdn.com/p/O6tksT-X1BwIMbgUEHDAw-gpD1bl4QYzdUZQOptgJnk/196x245.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/O6tksT-X1BwIMbgUEHDAw-gpD1bl4QYzdUZQOptgJnk/864x1080.jpg",
+          "width": 864
+        }
+      }
+    ],
+    "yext/price": {
+      "currencyCode": "USD",
+      "value": "165"
+    },
+    "yext/richTextDescription": "The FFF Vapor Match Away Jersey is the same design worn by the pros on the field. It combines breathability and mobility with stretchy fabric that wicks sweat and dries exceptionally fast for peak performance. Informed by streetwear culture, the primarily white design unifies the team and the country as one crew. This product is made with at least 50% recycled polyester.",
+    "yext/sku": "CD0599-100",
+    "yext/slug": "tops/[[entityId]].html"
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

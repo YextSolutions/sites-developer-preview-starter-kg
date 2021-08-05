@@ -1,0 +1,38 @@
+{
+  "$id": "ce_productCategory",
+  "$schema": "https://schema.yext.com/config/km/entity-type/v1",
+  "description": "",
+  "displayName": "Product Category",
+  "enabled": true,
+  "field": [
+    {
+      "id": "yext/richTextDescription",
+      "required": false
+    },
+    {
+      "id": "yext/slug",
+      "required": false
+    },
+    {
+      "id": "yext/name",
+      "required": true
+    },
+    {
+      "id": "c_relatedProducts",
+      "required": false
+    },
+    {
+      "id": "yext/folder",
+      "required": false
+    },
+    {
+      "id": "yext/labels",
+      "required": false
+    },
+    {
+      "id": "yext/entityId",
+      "required": true
+    }
+  ],
+  "pluralDisplayName": ""
+}

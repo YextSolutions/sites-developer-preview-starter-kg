@@ -1,0 +1,73 @@
+{
+  "$id": "bottom-3",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/brand": "Sacai",
+    "yext/color": "Multi",
+    "yext/name": "Hank Willis Thomas Wide-Leg Logo-Appliquéd Pendleton-Print Patchwork Twill Shorts",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1820,
+          "thumbnails": [
+            {
+              "height": 1820,
+              "url": "http://a.mktgcdn.com/p/K1ORTj3qrpqMeiysl9iimYGu1TnWbVzM9c9HfWNHHu8/1365x1820.jpg",
+              "width": 1365
+            },
+            {
+              "height": 825,
+              "url": "http://a.mktgcdn.com/p/K1ORTj3qrpqMeiysl9iimYGu1TnWbVzM9c9HfWNHHu8/619x825.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/K1ORTj3qrpqMeiysl9iimYGu1TnWbVzM9c9HfWNHHu8/337x450.jpg",
+              "width": 337
+            },
+            {
+              "height": 261,
+              "url": "http://a.mktgcdn.com/p/K1ORTj3qrpqMeiysl9iimYGu1TnWbVzM9c9HfWNHHu8/195x261.jpg",
+              "width": 195
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/K1ORTj3qrpqMeiysl9iimYGu1TnWbVzM9c9HfWNHHu8/1365x1820.jpg",
+          "width": 1365
+        }
+      },
+      {
+        "image": {
+          "height": 747,
+          "thumbnails": [
+            {
+              "height": 747,
+              "url": "http://a.mktgcdn.com/p/X0pXyn8xRIN6G5MVILDkbpMc5Ss9Y1yTTprwisl6boI/560x747.jpg",
+              "width": 560
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/X0pXyn8xRIN6G5MVILDkbpMc5Ss9Y1yTTprwisl6boI/337x450.jpg",
+              "width": 337
+            },
+            {
+              "height": 261,
+              "url": "http://a.mktgcdn.com/p/X0pXyn8xRIN6G5MVILDkbpMc5Ss9Y1yTTprwisl6boI/196x261.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/X0pXyn8xRIN6G5MVILDkbpMc5Ss9Y1yTTprwisl6boI/560x747.jpg",
+          "width": 560
+        }
+      }
+    ],
+    "yext/price": {
+      "currencyCode": "USD",
+      "value": "1105"
+    },
+    "yext/richTextDescription": "Ms Chitose Abe collaborates with American conceptual artist Mr Hank Willis Thomas for SS21, choosing to revive several of Sacai\u0027s archival prints. Made in Japan, these shorts are patchworked together from twill swatches in leopard, florals, graphic shapes and various scenes. They have a wide-leg, dropped-seat shape and coordinating integrated belt.",
+    "yext/slug": "bottoms/[[entityId]].html"
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

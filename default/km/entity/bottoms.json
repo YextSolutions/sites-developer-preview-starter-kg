@@ -1,0 +1,25 @@
+{
+  "$id": "bottoms",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_relatedProducts": [
+      "bottom-1",
+      "bottom-2",
+      "bottom-3",
+      "bottom-4",
+      "bottom-5",
+      "bottom-6",
+      "bottom-7",
+      "bottom-8",
+      "bottom-9",
+      "bottom-10",
+      "bottom-11"
+    ],
+    "yext/name": "Bottoms",
+    "yext/richTextDescription": "Elevate your wardrobe with our collection of designer pants and trousers. Whether you\u0027re looking for formal officewear, casual pants for a relaxing weekend, or dress pants for your next evening engagement, you will be sure to find the perfect piece among our selection.",
+    "yext/slug": "[[entityId]].html"
+  },
+  "entityType": "ce_productCategory",
+  "labels": []
+}

@@ -1,0 +1,83 @@
+{
+  "$id": "bottom-4",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/brand": "Amiri",
+    "yext/color": "Black",
+    "yext/name": "Printed Silk-Twill Drawstring Shorts",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1820,
+          "thumbnails": [
+            {
+              "height": 1820,
+              "url": "http://a.mktgcdn.com/p/Ptv5cjvH2VD9zPaUkxdwuYTROs-AfqStqMH_B4S53sw/1365x1820.jpg",
+              "width": 1365
+            },
+            {
+              "height": 825,
+              "url": "http://a.mktgcdn.com/p/Ptv5cjvH2VD9zPaUkxdwuYTROs-AfqStqMH_B4S53sw/619x825.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/Ptv5cjvH2VD9zPaUkxdwuYTROs-AfqStqMH_B4S53sw/337x450.jpg",
+              "width": 337
+            },
+            {
+              "height": 261,
+              "url": "http://a.mktgcdn.com/p/Ptv5cjvH2VD9zPaUkxdwuYTROs-AfqStqMH_B4S53sw/195x261.jpg",
+              "width": 195
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/Ptv5cjvH2VD9zPaUkxdwuYTROs-AfqStqMH_B4S53sw/1365x1820.jpg",
+          "width": 1365
+        }
+      },
+      {
+        "image": {
+          "height": 2667,
+          "thumbnails": [
+            {
+              "height": 2667,
+              "url": "http://a.mktgcdn.com/p/1YuDfzqPSiscgiV2HWHu22hJB-LxzO-787bAQ5-ZXqY/2000x2667.jpg",
+              "width": 2000
+            },
+            {
+              "height": 1900,
+              "url": "http://a.mktgcdn.com/p/1YuDfzqPSiscgiV2HWHu22hJB-LxzO-787bAQ5-ZXqY/1424x1900.jpg",
+              "width": 1424
+            },
+            {
+              "height": 825,
+              "url": "http://a.mktgcdn.com/p/1YuDfzqPSiscgiV2HWHu22hJB-LxzO-787bAQ5-ZXqY/619x825.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/1YuDfzqPSiscgiV2HWHu22hJB-LxzO-787bAQ5-ZXqY/337x450.jpg",
+              "width": 337
+            },
+            {
+              "height": 261,
+              "url": "http://a.mktgcdn.com/p/1YuDfzqPSiscgiV2HWHu22hJB-LxzO-787bAQ5-ZXqY/196x261.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/1YuDfzqPSiscgiV2HWHu22hJB-LxzO-787bAQ5-ZXqY/2000x2667.jpg",
+          "width": 2000
+        }
+      }
+    ],
+    "yext/price": {
+      "currencyCode": "USD",
+      "value": "990"
+    },
+    "yext/richTextDescription": "AMIRI\u0027s SS20 show at Paris\u0027 Musée des Arts Décoratifs paid tribute to the spirit of Woodstock. These comfortable shorts are cut from smooth silk-twill and printed with symmetrical egrets, which are symbolic of peace and harmony. Use the drawstring waistband to adjust the fit.",
+    "yext/slug": "bottoms/[[entityId]].html"
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

@@ -1,0 +1,97 @@
+{
+  "$id": "shoe-10",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/brand": "Nike",
+    "yext/color": "baroque brown/black/laser orange/racer pink",
+    "yext/name": "AIR JORDAN 1 RETRO HIGH \u0027TOKYO BIO HACK\u0027",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1140,
+          "thumbnails": [
+            {
+              "height": 1140,
+              "url": "http://a.mktgcdn.com/p/k6jhDBoQ0jwktmtRr6-nlbHp9Mul743jEQ83bz84u0U/1600x1140.jpg",
+              "width": 1600
+            },
+            {
+              "height": 441,
+              "url": "http://a.mktgcdn.com/p/k6jhDBoQ0jwktmtRr6-nlbHp9Mul743jEQ83bz84u0U/619x441.jpg",
+              "width": 619
+            },
+            {
+              "height": 427,
+              "url": "http://a.mktgcdn.com/p/k6jhDBoQ0jwktmtRr6-nlbHp9Mul743jEQ83bz84u0U/600x427.jpg",
+              "width": 600
+            },
+            {
+              "height": 139,
+              "url": "http://a.mktgcdn.com/p/k6jhDBoQ0jwktmtRr6-nlbHp9Mul743jEQ83bz84u0U/196x139.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/k6jhDBoQ0jwktmtRr6-nlbHp9Mul743jEQ83bz84u0U/1600x1140.jpg",
+          "width": 1600
+        }
+      },
+      {
+        "image": {
+          "height": 534,
+          "thumbnails": [
+            {
+              "height": 534,
+              "url": "http://a.mktgcdn.com/p/bWiw9QaHu-WP_l5uywV-HVr-lszRjwuVlb7KPOcwTew/750x534.jpg",
+              "width": 750
+            },
+            {
+              "height": 440,
+              "url": "http://a.mktgcdn.com/p/bWiw9QaHu-WP_l5uywV-HVr-lszRjwuVlb7KPOcwTew/619x440.jpg",
+              "width": 619
+            },
+            {
+              "height": 427,
+              "url": "http://a.mktgcdn.com/p/bWiw9QaHu-WP_l5uywV-HVr-lszRjwuVlb7KPOcwTew/600x427.jpg",
+              "width": 600
+            },
+            {
+              "height": 139,
+              "url": "http://a.mktgcdn.com/p/bWiw9QaHu-WP_l5uywV-HVr-lszRjwuVlb7KPOcwTew/195x139.jpg",
+              "width": 195
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/bWiw9QaHu-WP_l5uywV-HVr-lszRjwuVlb7KPOcwTew/750x534.jpg",
+          "width": 750
+        }
+      }
+    ],
+    "yext/price": {
+      "currencyCode": "USD",
+      "value": "300"
+    },
+    "yext/richTextDescription": "The Air Jordan 1 Retro High OG \u0027Tokyo Bio Hack\u0027 features inspiration from the Japanese capital. The shoe\u0027s upper is built with a mix of leather and suede, finished in a color-blocked look that brings to mind Undefeated\u0027s Nike Dunk High NL collaboration from 2005. Underfoot, the painted Air midsole provides cushioning, giving way to a concentric outsole for traction.",
+    "yext/sku": "555088",
+    "yext/slug": "shoes/[[entityId]].html"
+  },
+  "entityType": "yext/product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "es",
+      "content": {
+        "yext/color": "marrón barroco / negro / naranja láser / rosa carrera",
+        "yext/richTextDescription": "El Air Jordan 1 Retro High OG \u0027Tokyo Bio Hack\u0027 se inspira en la capital japonesa. La parte superior de la zapatilla está construida con una mezcla de cuero y gamuza, terminada en un aspecto de bloques de color que recuerda la colaboración de Nike Dunk High NL de Undefeated de 2005. Bajo los pies, la entresuela Air pintada proporciona amortiguación, dando paso a una suela concéntrica para la tracción .",
+        "yext/slug": "[[entityId]]-[[localeCode]]"
+      }
+    },
+    {
+      "locale": "es_US",
+      "content": {
+        "yext/color": "marrón barroco / negro / naranja láser / rosa carrera",
+        "yext/richTextDescription": "El Air Jordan 1 Retro High OG \u0027Tokyo Bio Hack\u0027 se inspira en la capital japonesa. La parte superior de la zapatilla está construida con una mezcla de cuero y gamuza, terminada en un aspecto de bloques de color que recuerda la colaboración de Nike Dunk High NL de Undefeated de 2005. Bajo los pies, la entresuela Air pintada proporciona amortiguación, dando paso a una suela concéntrica para la tracción .",
+        "yext/slug": "shoes/[[entityId]]/[[localeCode]]"
+      }
+    }
+  ]
+}

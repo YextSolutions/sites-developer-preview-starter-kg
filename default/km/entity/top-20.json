@@ -1,0 +1,50 @@
+{
+  "$id": "top-20",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/brand": "Nike",
+    "yext/color": "Mega Blue/Sport Royal/Mega Blue",
+    "yext/name": "England 2020 Vapor Match Away",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1728,
+          "thumbnails": [
+            {
+              "height": 1728,
+              "url": "http://a.mktgcdn.com/p/bdg__LtKdvlXfiJi-k3MIF2mJW_EXWfLnc5EPrUS5DQ/1728x1728.jpg",
+              "width": 1728
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/bdg__LtKdvlXfiJi-k3MIF2mJW_EXWfLnc5EPrUS5DQ/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/bdg__LtKdvlXfiJi-k3MIF2mJW_EXWfLnc5EPrUS5DQ/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/bdg__LtKdvlXfiJi-k3MIF2mJW_EXWfLnc5EPrUS5DQ/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/bdg__LtKdvlXfiJi-k3MIF2mJW_EXWfLnc5EPrUS5DQ/1728x1728.jpg",
+          "width": 1728
+        }
+      }
+    ],
+    "yext/price": {
+      "currencyCode": "USD",
+      "value": "165"
+    },
+    "yext/richTextDescription": "The England Vapor Match Away Jersey is a classic polo amped up with a \u002790s-inspired graphic that embodies the energy of England\u0027s next generation. It combines breathability and mobility with stretchy fabric that wicks sweat and dries exceptionally fast for peak performance. This product is made with at least 75% recycled polyester.",
+    "yext/sku": "CD0598-430",
+    "yext/slug": "tops/[[entityId]].html"
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

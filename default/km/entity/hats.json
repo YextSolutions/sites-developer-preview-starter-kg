@@ -1,0 +1,29 @@
+{
+  "$id": "hats",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_relatedProducts": [
+      "hat-1",
+      "hat-2",
+      "hat-3",
+      "hat-4",
+      "hat-5",
+      "hat-6",
+      "hat-7",
+      "hat-8",
+      "hat-9",
+      "hat-10",
+      "hat-11",
+      "hat-12",
+      "hat-13",
+      "hat-14",
+      "hat-15"
+    ],
+    "yext/name": "Hats",
+    "yext/richTextDescription": "A hat says a great deal about your personal sense of style. Are you a trilby or fedora kind of person? Is a flat cap or a Panama more your style? Explore our collection of designer hats and caps, including everything from Balenciaga beanies to bucket hats from Polo Ralph Lauren.",
+    "yext/slug": "[[entityId]].html"
+  },
+  "entityType": "ce_productCategory",
+  "labels": []
+}

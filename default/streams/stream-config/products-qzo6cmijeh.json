@@ -1,0 +1,22 @@
+{
+  "$id": "products-qzo6cmijeh",
+  "$schema": "https://schema.yext.com/config/streams/stream-config/v1",
+  "source": "knowledgeGraph",
+  "destination": "pages",
+  "fields": [
+    "id",
+    "uid",
+    "richTextDescription",
+    "name",
+    "slug",
+    "price",
+    "color",
+    "brand",
+    "photoGallery"
+  ],
+  "filter": {
+    "entityTypes": [
+      "product"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "$id": "top-9",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/brand": "Nike",
+    "yext/color": "White",
+    "yext/name": "Kevin Durant Nets Association Edition 2020",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 2160,
+          "thumbnails": [
+            {
+              "height": 2160,
+              "url": "http://a.mktgcdn.com/p/zX3jR44cYfJuQ1tTn-xRBUV0LbW0O00sxyOSB5dz9e8/1728x2160.jpg",
+              "width": 1728
+            },
+            {
+              "height": 1900,
+              "url": "http://a.mktgcdn.com/p/zX3jR44cYfJuQ1tTn-xRBUV0LbW0O00sxyOSB5dz9e8/1520x1900.jpg",
+              "width": 1520
+            },
+            {
+              "height": 773,
+              "url": "http://a.mktgcdn.com/p/zX3jR44cYfJuQ1tTn-xRBUV0LbW0O00sxyOSB5dz9e8/619x773.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/zX3jR44cYfJuQ1tTn-xRBUV0LbW0O00sxyOSB5dz9e8/360x450.jpg",
+              "width": 360
+            },
+            {
+              "height": 245,
+              "url": "http://a.mktgcdn.com/p/zX3jR44cYfJuQ1tTn-xRBUV0LbW0O00sxyOSB5dz9e8/196x245.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/zX3jR44cYfJuQ1tTn-xRBUV0LbW0O00sxyOSB5dz9e8/1728x2160.jpg",
+          "width": 1728
+        }
+      }
+    ],
+    "yext/price": {
+      "currencyCode": "USD",
+      "value": "200"
+    },
+    "yext/richTextDescription": "The Association Edition jersey is the common thread that weaves through every team in the league. The Authentic Nike NBA Association Edition Jersey of the Brooklyn Nets is designed to be lightweight and breathable. It\u0027s got a fit that helps players move freely on the basketball court.",
+    "yext/sku": "2983570",
+    "yext/slug": "tops/[[entityId]].html"
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

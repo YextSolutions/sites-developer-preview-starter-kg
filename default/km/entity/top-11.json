@@ -1,0 +1,55 @@
+{
+  "$id": "top-11",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/brand": "Nike",
+    "yext/color": "Amarillo",
+    "yext/name": "Brooklyn Nets Biggie",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 2160,
+          "thumbnails": [
+            {
+              "height": 2160,
+              "url": "http://a.mktgcdn.com/p/yuD0ha7iMZjEXnDY1yF3Y2QmVxpYpxEtwohKCd31Uy8/1728x2160.jpg",
+              "width": 1728
+            },
+            {
+              "height": 1900,
+              "url": "http://a.mktgcdn.com/p/yuD0ha7iMZjEXnDY1yF3Y2QmVxpYpxEtwohKCd31Uy8/1520x1900.jpg",
+              "width": 1520
+            },
+            {
+              "height": 773,
+              "url": "http://a.mktgcdn.com/p/yuD0ha7iMZjEXnDY1yF3Y2QmVxpYpxEtwohKCd31Uy8/619x773.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/yuD0ha7iMZjEXnDY1yF3Y2QmVxpYpxEtwohKCd31Uy8/360x450.jpg",
+              "width": 360
+            },
+            {
+              "height": 245,
+              "url": "http://a.mktgcdn.com/p/yuD0ha7iMZjEXnDY1yF3Y2QmVxpYpxEtwohKCd31Uy8/196x245.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/yuD0ha7iMZjEXnDY1yF3Y2QmVxpYpxEtwohKCd31Uy8/1728x2160.jpg",
+          "width": 1728
+        }
+      }
+    ],
+    "yext/price": {
+      "currencyCode": "USD",
+      "value": "175"
+    },
+    "yext/richTextDescription": "The Brooklyn Nets Nike NBA Swingman Jersey is inspired by what the pros wear. The jersey uses a vibrant mix of colors and trims on top of premium double-knit fabric. It\u0027s got a classic jersey construction and a fit that looks good from all angles. This product is made with at least 50% recycled polyester.",
+    "yext/sku": "6340087",
+    "yext/slug": "tops/[[entityId]].html"
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

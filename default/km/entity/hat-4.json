@@ -1,0 +1,49 @@
+{
+  "$id": "hat-4",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/brand": "Givenchy",
+    "yext/color": "Gold",
+    "yext/name": "Logo-Embroidered Cotton-Blend Twill Baseball Cap",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1820,
+          "thumbnails": [
+            {
+              "height": 1820,
+              "url": "http://a.mktgcdn.com/p/6Gpjr1qYlWt2lfnBfLAGvwk8wSsP_ojH7FTMRrvI-9U/1365x1820.jpg",
+              "width": 1365
+            },
+            {
+              "height": 825,
+              "url": "http://a.mktgcdn.com/p/6Gpjr1qYlWt2lfnBfLAGvwk8wSsP_ojH7FTMRrvI-9U/619x825.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/6Gpjr1qYlWt2lfnBfLAGvwk8wSsP_ojH7FTMRrvI-9U/337x450.jpg",
+              "width": 337
+            },
+            {
+              "height": 261,
+              "url": "http://a.mktgcdn.com/p/6Gpjr1qYlWt2lfnBfLAGvwk8wSsP_ojH7FTMRrvI-9U/195x261.jpg",
+              "width": 195
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/6Gpjr1qYlWt2lfnBfLAGvwk8wSsP_ojH7FTMRrvI-9U/1365x1820.jpg",
+          "width": 1365
+        }
+      }
+    ],
+    "yext/price": {
+      "currencyCode": "USD",
+      "value": "450"
+    },
+    "yext/richTextDescription": "The tonal logo embroidery on Givenchy\u0027s baseball cap is quite on-the-nose, or rather, on-the-head. It\u0027s made from cotton-blend twill that\u0027s easy to spot clean.",
+    "yext/slug": "hats/[[entityId]].html"
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

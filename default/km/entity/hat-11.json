@@ -1,0 +1,49 @@
+{
+  "$id": "hat-11",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/brand": "Zimmermann",
+    "yext/color": "Orange",
+    "yext/name": "Printed linen-twill bucket hat",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1380,
+          "thumbnails": [
+            {
+              "height": 1380,
+              "url": "http://a.mktgcdn.com/p/x011D3VA-LYDjCEJbHWrB6So5AX8h7ptmTvIQb7hA0M/920x1380.jpg",
+              "width": 920
+            },
+            {
+              "height": 928,
+              "url": "http://a.mktgcdn.com/p/x011D3VA-LYDjCEJbHWrB6So5AX8h7ptmTvIQb7hA0M/619x928.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/x011D3VA-LYDjCEJbHWrB6So5AX8h7ptmTvIQb7hA0M/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p/x011D3VA-LYDjCEJbHWrB6So5AX8h7ptmTvIQb7hA0M/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/x011D3VA-LYDjCEJbHWrB6So5AX8h7ptmTvIQb7hA0M/920x1380.jpg",
+          "width": 920
+        }
+      }
+    ],
+    "yext/price": {
+      "currencyCode": "USD",
+      "value": "160"
+    },
+    "yext/richTextDescription": "Zimmermann\u0027s bucket hat is printed with the same palm fronds and tropical birds as the label\u0027s shirt and maxi dress - coordinating pieces are key this season, so style yours with either. It\u0027s made from linen-twill and has ventilating metal eyelets at the side.",
+    "yext/slug": "hats/[[entityId]].html"
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

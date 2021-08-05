@@ -1,0 +1,50 @@
+{
+  "$id": "shoe-3",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/brand": "Nike",
+    "yext/color": "Black/Tropical Twist/White/Multi-Color",
+    "yext/name": "Jordan MA2",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1080,
+          "thumbnails": [
+            {
+              "height": 1080,
+              "url": "http://a.mktgcdn.com/p/I9Idb_RI37kjAVBUCP_lVtOSUN7QQY7N7n1b1dRYjNE/864x1080.jpg",
+              "width": 864
+            },
+            {
+              "height": 773,
+              "url": "http://a.mktgcdn.com/p/I9Idb_RI37kjAVBUCP_lVtOSUN7QQY7N7n1b1dRYjNE/619x773.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/I9Idb_RI37kjAVBUCP_lVtOSUN7QQY7N7n1b1dRYjNE/360x450.jpg",
+              "width": 360
+            },
+            {
+              "height": 245,
+              "url": "http://a.mktgcdn.com/p/I9Idb_RI37kjAVBUCP_lVtOSUN7QQY7N7n1b1dRYjNE/196x245.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/I9Idb_RI37kjAVBUCP_lVtOSUN7QQY7N7n1b1dRYjNE/864x1080.jpg",
+          "width": 864
+        }
+      }
+    ],
+    "yext/price": {
+      "currencyCode": "USD",
+      "value": "125"
+    },
+    "yext/richTextDescription": "Shatter the sneaker status quo in the Jordan MA2. It\u0027s built with a mix of diverse materials and design details that touch on the brand\u0027s heritage while forging a fresh identity. Easy to get on and off and comfortable all day, it wears with just about anything.",
+    "yext/sku": "DJ5187-001",
+    "yext/slug": "shoes/[[entityId]].html"
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

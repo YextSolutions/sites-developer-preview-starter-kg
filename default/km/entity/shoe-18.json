@@ -1,0 +1,73 @@
+{
+  "$id": "shoe-18",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/brand": "Gucci",
+    "yext/color": "Multi",
+    "yext/name": "Leather-Trimmed Monogrammed Canvas Sandals",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1820,
+          "thumbnails": [
+            {
+              "height": 1820,
+              "url": "http://a.mktgcdn.com/p/s26os0OezuPit9M2pAsapaIbe10heuo3L2xxmKdjVv0/1365x1820.jpg",
+              "width": 1365
+            },
+            {
+              "height": 825,
+              "url": "http://a.mktgcdn.com/p/s26os0OezuPit9M2pAsapaIbe10heuo3L2xxmKdjVv0/619x825.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/s26os0OezuPit9M2pAsapaIbe10heuo3L2xxmKdjVv0/337x450.jpg",
+              "width": 337
+            },
+            {
+              "height": 261,
+              "url": "http://a.mktgcdn.com/p/s26os0OezuPit9M2pAsapaIbe10heuo3L2xxmKdjVv0/195x261.jpg",
+              "width": 195
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/s26os0OezuPit9M2pAsapaIbe10heuo3L2xxmKdjVv0/1365x1820.jpg",
+          "width": 1365
+        }
+      },
+      {
+        "image": {
+          "height": 747,
+          "thumbnails": [
+            {
+              "height": 747,
+              "url": "http://a.mktgcdn.com/p/IKdCSFFG5rlMmt3EP4HAOOXk1dWFZvmIXzcRSiBqsfA/560x747.jpg",
+              "width": 560
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/IKdCSFFG5rlMmt3EP4HAOOXk1dWFZvmIXzcRSiBqsfA/337x450.jpg",
+              "width": 337
+            },
+            {
+              "height": 261,
+              "url": "http://a.mktgcdn.com/p/IKdCSFFG5rlMmt3EP4HAOOXk1dWFZvmIXzcRSiBqsfA/196x261.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/IKdCSFFG5rlMmt3EP4HAOOXk1dWFZvmIXzcRSiBqsfA/560x747.jpg",
+          "width": 560
+        }
+      }
+    ],
+    "yext/price": {
+      "currencyCode": "USD",
+      "value": "490"
+    },
+    "yext/richTextDescription": "Part of the brand\u0027s \u0027GG Multicolour\u0027 capsule, Gucci\u0027s sandals celebrate the sheer joy of colour. They\u0027re made from monogrammed canvas and have moulded footbeds and gripped rubber soles for comfort.",
+    "yext/slug": "shoes/[[entityId]].html"
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

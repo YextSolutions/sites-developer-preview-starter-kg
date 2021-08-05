@@ -1,0 +1,50 @@
+{
+  "$id": "shoe-7",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/brand": "Nike",
+    "yext/color": "Crimson/Green Apple/Volt/White",
+    "yext/name": "PG 4",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1080,
+          "thumbnails": [
+            {
+              "height": 1080,
+              "url": "http://a.mktgcdn.com/p/ZVBuzP31f1_rGaEG4q9OkIdObbJgqzC4ZJrMrE3onEY/864x1080.jpg",
+              "width": 864
+            },
+            {
+              "height": 773,
+              "url": "http://a.mktgcdn.com/p/ZVBuzP31f1_rGaEG4q9OkIdObbJgqzC4ZJrMrE3onEY/619x773.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/ZVBuzP31f1_rGaEG4q9OkIdObbJgqzC4ZJrMrE3onEY/360x450.jpg",
+              "width": 360
+            },
+            {
+              "height": 245,
+              "url": "http://a.mktgcdn.com/p/ZVBuzP31f1_rGaEG4q9OkIdObbJgqzC4ZJrMrE3onEY/196x245.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ZVBuzP31f1_rGaEG4q9OkIdObbJgqzC4ZJrMrE3onEY/864x1080.jpg",
+          "width": 864
+        }
+      }
+    ],
+    "yext/price": {
+      "currencyCode": "USD",
+      "value": "72.97"
+    },
+    "yext/richTextDescription": "Paul George is the rare high-percentage shooter who\u0027s also a coach\u0027s dream on D. Designed for his unrivaled 2-way game, the PG 4 unveils a new cushioning system that\u0027s lightweight, articulated and responsive, ideal for players like PG who go hard every play.",
+    "yext/sku": "CD5079-602",
+    "yext/slug": "shoes/[[entityId]].html"
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

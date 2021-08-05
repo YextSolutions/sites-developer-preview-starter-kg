@@ -1,0 +1,50 @@
+{
+  "$id": "shoe-13",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/brand": "Crocs",
+    "yext/color": "Fast Red",
+    "yext/name": "Lightning McQueen Limited Edition Crocs",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 437,
+          "thumbnails": [
+            {
+              "height": 437,
+              "url": "http://a.mktgcdn.com/p/8ChAiYIrM64-j-lCwACK9e86F277Xe0cmeDwDSN65V4/700x437.jpg",
+              "width": 700
+            },
+            {
+              "height": 386,
+              "url": "http://a.mktgcdn.com/p/8ChAiYIrM64-j-lCwACK9e86F277Xe0cmeDwDSN65V4/619x386.jpg",
+              "width": 619
+            },
+            {
+              "height": 374,
+              "url": "http://a.mktgcdn.com/p/8ChAiYIrM64-j-lCwACK9e86F277Xe0cmeDwDSN65V4/600x374.jpg",
+              "width": 600
+            },
+            {
+              "height": 122,
+              "url": "http://a.mktgcdn.com/p/8ChAiYIrM64-j-lCwACK9e86F277Xe0cmeDwDSN65V4/196x122.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/8ChAiYIrM64-j-lCwACK9e86F277Xe0cmeDwDSN65V4/700x437.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "yext/price": {
+      "currencyCode": "USD",
+      "value": "15000"
+    },
+    "yext/richTextDescription": "Original. Versatile. Comfortable.  \nIt\u0027s the iconic clog that started a comfort revolution around the world! The irreverent go\\-to comfort shoe that you\u0027re sure to fall deeper in love with day after day. There are only 10 pairs of the Lightning McQueen series world\\-wide due to his speed.",
+    "yext/sku": "12345678910",
+    "yext/slug": "shoes/[[entityId]].html"
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

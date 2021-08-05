@@ -1,0 +1,83 @@
+{
+  "$id": "top-5",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/brand": "Loewe",
+    "yext/color": "Black",
+    "yext/name": "Paula\u0027s Ibiza Printed Cotton-Jersey T-Shirt",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1820,
+          "thumbnails": [
+            {
+              "height": 1820,
+              "url": "http://a.mktgcdn.com/p/AtV5f5T1ramlRmpQjgIRw8d8BPiLET1DSMhbyYkOvCQ/1365x1820.jpg",
+              "width": 1365
+            },
+            {
+              "height": 825,
+              "url": "http://a.mktgcdn.com/p/AtV5f5T1ramlRmpQjgIRw8d8BPiLET1DSMhbyYkOvCQ/619x825.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/AtV5f5T1ramlRmpQjgIRw8d8BPiLET1DSMhbyYkOvCQ/337x450.jpg",
+              "width": 337
+            },
+            {
+              "height": 261,
+              "url": "http://a.mktgcdn.com/p/AtV5f5T1ramlRmpQjgIRw8d8BPiLET1DSMhbyYkOvCQ/195x261.jpg",
+              "width": 195
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/AtV5f5T1ramlRmpQjgIRw8d8BPiLET1DSMhbyYkOvCQ/1365x1820.jpg",
+          "width": 1365
+        }
+      },
+      {
+        "image": {
+          "height": 2667,
+          "thumbnails": [
+            {
+              "height": 2667,
+              "url": "http://a.mktgcdn.com/p/ejm5HY9ezXJNEdM_iO-dPv33sjRrVezO9WPSJqKaE_s/2000x2667.jpg",
+              "width": 2000
+            },
+            {
+              "height": 1900,
+              "url": "http://a.mktgcdn.com/p/ejm5HY9ezXJNEdM_iO-dPv33sjRrVezO9WPSJqKaE_s/1424x1900.jpg",
+              "width": 1424
+            },
+            {
+              "height": 825,
+              "url": "http://a.mktgcdn.com/p/ejm5HY9ezXJNEdM_iO-dPv33sjRrVezO9WPSJqKaE_s/619x825.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/ejm5HY9ezXJNEdM_iO-dPv33sjRrVezO9WPSJqKaE_s/337x450.jpg",
+              "width": 337
+            },
+            {
+              "height": 261,
+              "url": "http://a.mktgcdn.com/p/ejm5HY9ezXJNEdM_iO-dPv33sjRrVezO9WPSJqKaE_s/196x261.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ejm5HY9ezXJNEdM_iO-dPv33sjRrVezO9WPSJqKaE_s/2000x2667.jpg",
+          "width": 2000
+        }
+      }
+    ],
+    "yext/price": {
+      "currencyCode": "USD",
+      "value": "550"
+    },
+    "yext/richTextDescription": "Loewe has collaborated with Paula\u0027s Ibiza again on a collection inspired by the boutique\u0027s archive. This cotton-jersey T-shirt features an airbrush-style landscape on the front and a cosmic seascape on the back.",
+    "yext/slug": "tops/[[entityId]].html"
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

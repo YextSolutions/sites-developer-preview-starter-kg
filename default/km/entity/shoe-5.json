@@ -1,0 +1,49 @@
+{
+  "$id": "shoe-5",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/brand": "Nike",
+    "yext/name": "LeBron 18 Low \"Summer Refresh\"",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1080,
+          "thumbnails": [
+            {
+              "height": 1080,
+              "url": "http://a.mktgcdn.com/p/AK62kqNkZfDKloSIbAudj97w70CGXgp-_xi6Y5F2D68/864x1080.jpg",
+              "width": 864
+            },
+            {
+              "height": 773,
+              "url": "http://a.mktgcdn.com/p/AK62kqNkZfDKloSIbAudj97w70CGXgp-_xi6Y5F2D68/619x773.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/AK62kqNkZfDKloSIbAudj97w70CGXgp-_xi6Y5F2D68/360x450.jpg",
+              "width": 360
+            },
+            {
+              "height": 245,
+              "url": "http://a.mktgcdn.com/p/AK62kqNkZfDKloSIbAudj97w70CGXgp-_xi6Y5F2D68/196x245.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/AK62kqNkZfDKloSIbAudj97w70CGXgp-_xi6Y5F2D68/864x1080.jpg",
+          "width": 864
+        }
+      }
+    ],
+    "yext/price": {
+      "currencyCode": "USD",
+      "value": "160"
+    },
+    "yext/richTextDescription": "A player of LeBron’s power and agility needs a light yet strong shoe that harnesses his force but still allows him to move with precision. The LeBron 18 Low “Summer Refresh” colorway bursts onto the court with bright lime and mango hues. It’s lower and lighter than his game shoe, with Max Air plus Nike React foam providing impact cushioning and responsiveness. A padded, sculpted collar and the streamlined heel clip help secure the foot during games.",
+    "yext/sku": "CV7562-300",
+    "yext/slug": "shoes/[[entityId]].html"
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

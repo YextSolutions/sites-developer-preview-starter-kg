@@ -1,0 +1,25 @@
+{
+  "$id": "location-1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/address": {
+      "city": "New York",
+      "countryCode": "US",
+      "line1": "100 Pizza Street",
+      "postalCode": "10011",
+      "region": "NY"
+    },
+    "yext/addressHidden": false,
+    "yext/categoryIds": [
+      "1198"
+    ],
+    "yext/mainPhone": "+12345678910",
+    "yext/name": "Pizza Planet Manhattan",
+    "yext/slug": "[[name]]",
+    "yext/timezone": "America/New_York"
+  },
+  "entityType": "yext/location",
+  "folder": "yext/root",
+  "labels": []
+}

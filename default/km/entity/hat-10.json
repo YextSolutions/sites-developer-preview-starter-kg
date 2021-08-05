@@ -1,0 +1,78 @@
+{
+  "$id": "hat-10",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/brand": "Artesano",
+    "yext/color": "Camel",
+    "yext/name": "Santarem bead-embellished straw Panama hat",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1380,
+          "thumbnails": [
+            {
+              "height": 1380,
+              "url": "http://a.mktgcdn.com/p/Z8gskmlTNNy3gmtaJpBM8UcXKKyTbYH01vQ3tiJOHow/920x1380.jpg",
+              "width": 920
+            },
+            {
+              "height": 928,
+              "url": "http://a.mktgcdn.com/p/Z8gskmlTNNy3gmtaJpBM8UcXKKyTbYH01vQ3tiJOHow/619x928.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/Z8gskmlTNNy3gmtaJpBM8UcXKKyTbYH01vQ3tiJOHow/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p/Z8gskmlTNNy3gmtaJpBM8UcXKKyTbYH01vQ3tiJOHow/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/Z8gskmlTNNy3gmtaJpBM8UcXKKyTbYH01vQ3tiJOHow/920x1380.jpg",
+          "width": 920
+        }
+      },
+      {
+        "image": {
+          "height": 1380,
+          "thumbnails": [
+            {
+              "height": 1380,
+              "url": "http://a.mktgcdn.com/p/Poy453yw7tEtehMWtj02c6mV8w6Um9oDAwdc9rIQlN0/920x1380.jpg",
+              "width": 920
+            },
+            {
+              "height": 928,
+              "url": "http://a.mktgcdn.com/p/Poy453yw7tEtehMWtj02c6mV8w6Um9oDAwdc9rIQlN0/619x928.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/Poy453yw7tEtehMWtj02c6mV8w6Um9oDAwdc9rIQlN0/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p/Poy453yw7tEtehMWtj02c6mV8w6Um9oDAwdc9rIQlN0/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/Poy453yw7tEtehMWtj02c6mV8w6Um9oDAwdc9rIQlN0/920x1380.jpg",
+          "width": 920
+        }
+      }
+    ],
+    "yext/price": {
+      "currencyCode": "USD",
+      "value": "260"
+    },
+    "yext/richTextDescription": "Artesano\u0027s hats are made from Toquilla straw that\u0027s carefully hand-cut and sourced from the leaves of a Carludovica Palmata plant, so it can take up to four months to finish just one. This \u0027Santarem\u0027 style has a wide, structured brim and is decorated with the label\u0027s signature tagua beads.",
+    "yext/slug": "hats/[[entityId]].html"
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

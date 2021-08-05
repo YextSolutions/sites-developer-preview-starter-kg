@@ -1,0 +1,73 @@
+{
+  "$id": "bottom-5",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/brand": "Gucci",
+    "yext/color": "Green",
+    "yext/name": "Ken Scott Wide-Leg Floral-Print Silk-Crepe Shorts",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1820,
+          "thumbnails": [
+            {
+              "height": 1820,
+              "url": "http://a.mktgcdn.com/p/1-XNNCy8DSy1M2amr5a0IdALVGUeArBcc56R3oOXZI4/1365x1820.jpg",
+              "width": 1365
+            },
+            {
+              "height": 825,
+              "url": "http://a.mktgcdn.com/p/1-XNNCy8DSy1M2amr5a0IdALVGUeArBcc56R3oOXZI4/619x825.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/1-XNNCy8DSy1M2amr5a0IdALVGUeArBcc56R3oOXZI4/337x450.jpg",
+              "width": 337
+            },
+            {
+              "height": 261,
+              "url": "http://a.mktgcdn.com/p/1-XNNCy8DSy1M2amr5a0IdALVGUeArBcc56R3oOXZI4/195x261.jpg",
+              "width": 195
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/1-XNNCy8DSy1M2amr5a0IdALVGUeArBcc56R3oOXZI4/1365x1820.jpg",
+          "width": 1365
+        }
+      },
+      {
+        "image": {
+          "height": 747,
+          "thumbnails": [
+            {
+              "height": 747,
+              "url": "http://a.mktgcdn.com/p/Oozm6vIgy__pbW3LBFGsaCmzmxcRxJJ1piZVn-7al_g/560x747.jpg",
+              "width": 560
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/Oozm6vIgy__pbW3LBFGsaCmzmxcRxJJ1piZVn-7al_g/337x450.jpg",
+              "width": 337
+            },
+            {
+              "height": 261,
+              "url": "http://a.mktgcdn.com/p/Oozm6vIgy__pbW3LBFGsaCmzmxcRxJJ1piZVn-7al_g/196x261.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/Oozm6vIgy__pbW3LBFGsaCmzmxcRxJJ1piZVn-7al_g/560x747.jpg",
+          "width": 560
+        }
+      }
+    ],
+    "yext/price": {
+      "currencyCode": "USD",
+      "value": "980"
+    },
+    "yext/richTextDescription": "Nicknamed \u0027The Fashion Gardener\u0027 for his vibrant botanical prints, Mr Ken Scott helped develop the floral motifs we now so readily associate with the \u002760s and \u002770s. Gucci\u0027s silk-crepe shorts showcase oversized daisies from the American designer\u0027s archive and are appliquéd with an emblem on the back.",
+    "yext/slug": "bottoms/[[entityId]].html"
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

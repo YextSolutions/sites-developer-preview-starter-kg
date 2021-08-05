@@ -1,0 +1,74 @@
+{
+  "$id": "bottom-7",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/brand": "Gucci",
+    "yext/color": "Brown",
+    "yext/name": "Brown GG Flora Lounge Pants",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1416,
+          "thumbnails": [
+            {
+              "height": 1416,
+              "url": "http://a.mktgcdn.com/p/LqsYtwT2moI3mP-HD-2uynvbH26DFPICWdljRD1x9W8/512x1416.jpg",
+              "width": 512
+            },
+            {
+              "height": 1000,
+              "url": "http://a.mktgcdn.com/p/LqsYtwT2moI3mP-HD-2uynvbH26DFPICWdljRD1x9W8/361x1000.jpg",
+              "width": 361
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/LqsYtwT2moI3mP-HD-2uynvbH26DFPICWdljRD1x9W8/162x450.jpg",
+              "width": 162
+            },
+            {
+              "height": 400,
+              "url": "http://a.mktgcdn.com/p/LqsYtwT2moI3mP-HD-2uynvbH26DFPICWdljRD1x9W8/144x400.jpg",
+              "width": 144
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/LqsYtwT2moI3mP-HD-2uynvbH26DFPICWdljRD1x9W8/512x1416.jpg",
+          "width": 512
+        }
+      },
+      {
+        "image": {
+          "height": 1408,
+          "thumbnails": [
+            {
+              "height": 1408,
+              "url": "http://a.mktgcdn.com/p/27sl8cWpoehMLMLlkfYaD0xBEHhvK0-mi6VptOEbR3Q/480x1408.jpg",
+              "width": 480
+            },
+            {
+              "height": 1000,
+              "url": "http://a.mktgcdn.com/p/27sl8cWpoehMLMLlkfYaD0xBEHhvK0-mi6VptOEbR3Q/340x1000.jpg",
+              "width": 340
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/27sl8cWpoehMLMLlkfYaD0xBEHhvK0-mi6VptOEbR3Q/153x450.jpg",
+              "width": 153
+            },
+            {
+              "height": 400,
+              "url": "http://a.mktgcdn.com/p/27sl8cWpoehMLMLlkfYaD0xBEHhvK0-mi6VptOEbR3Q/136x400.jpg",
+              "width": 136
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/27sl8cWpoehMLMLlkfYaD0xBEHhvK0-mi6VptOEbR3Q/480x1408.jpg",
+          "width": 480
+        }
+      }
+    ],
+    "yext/richTextDescription": "Tapered technical jersey lounge pants featuring logo pattern in brown and beige and multicolor graphic print throughout. Mid\\-rise. Drawstring in off\\-white at elasticized waistband. Two\\-pocket styling. Tape trim in red and green at outseams.",
+    "yext/slug": "bottoms/[[entityId]].html"
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

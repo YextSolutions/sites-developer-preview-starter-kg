@@ -1,0 +1,55 @@
+{
+  "$id": "shoe-1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/brand": "Nike",
+    "yext/color": "Clear/Light Bone/Varsity Red/Medium Grey",
+    "yext/name": "Jordan Delta Breathe",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 2160,
+          "thumbnails": [
+            {
+              "height": 2160,
+              "url": "http://a.mktgcdn.com/p/OZuqP0PNXf7e08RoYsKE9_it0yuHdO4NwkfhcKX4CKg/1728x2160.jpg",
+              "width": 1728
+            },
+            {
+              "height": 1900,
+              "url": "http://a.mktgcdn.com/p/OZuqP0PNXf7e08RoYsKE9_it0yuHdO4NwkfhcKX4CKg/1520x1900.jpg",
+              "width": 1520
+            },
+            {
+              "height": 773,
+              "url": "http://a.mktgcdn.com/p/OZuqP0PNXf7e08RoYsKE9_it0yuHdO4NwkfhcKX4CKg/619x773.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/OZuqP0PNXf7e08RoYsKE9_it0yuHdO4NwkfhcKX4CKg/360x450.jpg",
+              "width": 360
+            },
+            {
+              "height": 245,
+              "url": "http://a.mktgcdn.com/p/OZuqP0PNXf7e08RoYsKE9_it0yuHdO4NwkfhcKX4CKg/196x245.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/OZuqP0PNXf7e08RoYsKE9_it0yuHdO4NwkfhcKX4CKg/1728x2160.jpg",
+          "width": 1728
+        }
+      }
+    ],
+    "yext/price": {
+      "currencyCode": "USD",
+      "value": "117.97"
+    },
+    "yext/richTextDescription": "Inspired by high-tech functionality and handmade craftsmanship, the Jordan Delta Breathe combines natural and synthetic materials. The result is a lifestyle shoe that\u0027s lightweight, breathable and comfortable all day. The layered mix of diverse elements creates a distinct look and feel with subtle nods to Jordan DNA. Nike React foam offers responsive cushioning on the move.",
+    "yext/sku": "CW0783-901",
+    "yext/slug": "shoes/[[entityId]].html"
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

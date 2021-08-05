@@ -1,0 +1,108 @@
+{
+  "$id": "shoe-9",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/brand": "Nike",
+    "yext/color": "wolf grey/sail/photon dust/white",
+    "yext/name": "DIOR X AIR DJORDAN 1 HIGH",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 713,
+          "thumbnails": [
+            {
+              "height": 713,
+              "url": "http://a.mktgcdn.com/p/K3ON5TY6ZvIn85uFy_ZzBz6RTYSRlpsDaMyX6N_Se5I/1000x713.jpg",
+              "width": 1000
+            },
+            {
+              "height": 441,
+              "url": "http://a.mktgcdn.com/p/K3ON5TY6ZvIn85uFy_ZzBz6RTYSRlpsDaMyX6N_Se5I/619x441.jpg",
+              "width": 619
+            },
+            {
+              "height": 427,
+              "url": "http://a.mktgcdn.com/p/K3ON5TY6ZvIn85uFy_ZzBz6RTYSRlpsDaMyX6N_Se5I/600x427.jpg",
+              "width": 600
+            },
+            {
+              "height": 139,
+              "url": "http://a.mktgcdn.com/p/K3ON5TY6ZvIn85uFy_ZzBz6RTYSRlpsDaMyX6N_Se5I/196x139.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/K3ON5TY6ZvIn85uFy_ZzBz6RTYSRlpsDaMyX6N_Se5I/1000x713.jpg",
+          "width": 1000
+        }
+      },
+      {
+        "image": {
+          "height": 713,
+          "thumbnails": [
+            {
+              "height": 713,
+              "url": "http://a.mktgcdn.com/p/m7JR-E02go7gfDc2NTEdWxuleEVO4oH-5lI35Lpz7Mo/1000x713.jpg",
+              "width": 1000
+            },
+            {
+              "height": 441,
+              "url": "http://a.mktgcdn.com/p/m7JR-E02go7gfDc2NTEdWxuleEVO4oH-5lI35Lpz7Mo/619x441.jpg",
+              "width": 619
+            },
+            {
+              "height": 427,
+              "url": "http://a.mktgcdn.com/p/m7JR-E02go7gfDc2NTEdWxuleEVO4oH-5lI35Lpz7Mo/600x427.jpg",
+              "width": 600
+            },
+            {
+              "height": 139,
+              "url": "http://a.mktgcdn.com/p/m7JR-E02go7gfDc2NTEdWxuleEVO4oH-5lI35Lpz7Mo/196x139.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/m7JR-E02go7gfDc2NTEdWxuleEVO4oH-5lI35Lpz7Mo/1000x713.jpg",
+          "width": 1000
+        }
+      },
+      {
+        "image": {
+          "height": 534,
+          "thumbnails": [
+            {
+              "height": 534,
+              "url": "http://a.mktgcdn.com/p/T184mc-7rHCrgLAQ8qrHVHBXk-6T78svgFAHT1pOjcs/750x534.jpg",
+              "width": 750
+            },
+            {
+              "height": 440,
+              "url": "http://a.mktgcdn.com/p/T184mc-7rHCrgLAQ8qrHVHBXk-6T78svgFAHT1pOjcs/619x440.jpg",
+              "width": 619
+            },
+            {
+              "height": 427,
+              "url": "http://a.mktgcdn.com/p/T184mc-7rHCrgLAQ8qrHVHBXk-6T78svgFAHT1pOjcs/600x427.jpg",
+              "width": 600
+            },
+            {
+              "height": 139,
+              "url": "http://a.mktgcdn.com/p/T184mc-7rHCrgLAQ8qrHVHBXk-6T78svgFAHT1pOjcs/195x139.jpg",
+              "width": 195
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/T184mc-7rHCrgLAQ8qrHVHBXk-6T78svgFAHT1pOjcs/750x534.jpg",
+          "width": 750
+        }
+      }
+    ],
+    "yext/price": {
+      "currencyCode": "USD",
+      "value": "8859"
+    },
+    "yext/richTextDescription": "Part of a collection between the fashion house and Jordan Brand, the Dior x Air Jordan 1 High released in April 2020. The shoe\u0027s Italian leather upper appears in a mix of white and grey, with a Dior Oblique jacquard Swoosh contrasting the side wall. The tongue tag and \u0027Wings\u0027 logo sport co-branding, with further branding revealed by the icy translucent outsole.",
+    "yext/sku": "CN8607",
+    "yext/slug": "shoes/[[entityId]].html"
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

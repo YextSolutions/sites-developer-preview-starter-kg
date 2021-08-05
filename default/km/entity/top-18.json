@@ -1,0 +1,50 @@
+{
+  "$id": "top-18",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/brand": "Nike",
+    "yext/color": "Teal Tint/Black",
+    "yext/name": "Portugal 2020 Vapor Match Away",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1080,
+          "thumbnails": [
+            {
+              "height": 1080,
+              "url": "http://a.mktgcdn.com/p/oZpRZNJCD-6gbjsk2c20TC7YtnD_ph_AMkpCWAfz4Es/864x1080.jpg",
+              "width": 864
+            },
+            {
+              "height": 773,
+              "url": "http://a.mktgcdn.com/p/oZpRZNJCD-6gbjsk2c20TC7YtnD_ph_AMkpCWAfz4Es/619x773.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/oZpRZNJCD-6gbjsk2c20TC7YtnD_ph_AMkpCWAfz4Es/360x450.jpg",
+              "width": 360
+            },
+            {
+              "height": 245,
+              "url": "http://a.mktgcdn.com/p/oZpRZNJCD-6gbjsk2c20TC7YtnD_ph_AMkpCWAfz4Es/196x245.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/oZpRZNJCD-6gbjsk2c20TC7YtnD_ph_AMkpCWAfz4Es/864x1080.jpg",
+          "width": 864
+        }
+      }
+    ],
+    "yext/price": {
+      "currencyCode": "USD",
+      "value": "165"
+    },
+    "yext/richTextDescription": "The Portugal Vapor Match Away Jersey is the same design worn by the pros on the field. It combines breathability and mobility with stretchy fabric that wicks sweat and dries exceptionally fast for peak performance. Team details are inspired by the country\u0027s street art scene and the the power of youth. This product is made with at least 50% recycled polyester.",
+    "yext/sku": "CD0600-336",
+    "yext/slug": "tops/[[entityId]].html"
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

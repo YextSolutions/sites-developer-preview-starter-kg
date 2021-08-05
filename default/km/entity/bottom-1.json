@@ -1,0 +1,82 @@
+{
+  "$id": "bottom-1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_relatedProducts": [
+      "bottom-2",
+      "bottom-3"
+    ],
+    "yext/brand": "Nike",
+    "yext/color": "Chlorine Blue/Black",
+    "yext/name": "Nike Sportswear Shorts",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1080,
+          "thumbnails": [
+            {
+              "height": 1080,
+              "url": "http://a.mktgcdn.com/p/rOAitVrGwV0OtKEYo9K5r6vjnoz31PN_mBvxHhaWr14/864x1080.jpg",
+              "width": 864
+            },
+            {
+              "height": 773,
+              "url": "http://a.mktgcdn.com/p/rOAitVrGwV0OtKEYo9K5r6vjnoz31PN_mBvxHhaWr14/619x773.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/rOAitVrGwV0OtKEYo9K5r6vjnoz31PN_mBvxHhaWr14/360x450.jpg",
+              "width": 360
+            },
+            {
+              "height": 245,
+              "url": "http://a.mktgcdn.com/p/rOAitVrGwV0OtKEYo9K5r6vjnoz31PN_mBvxHhaWr14/196x245.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/rOAitVrGwV0OtKEYo9K5r6vjnoz31PN_mBvxHhaWr14/864x1080.jpg",
+          "width": 864
+        }
+      },
+      {
+        "image": {
+          "height": 1080,
+          "thumbnails": [
+            {
+              "height": 1080,
+              "url": "http://a.mktgcdn.com/p/zYBqCWYMcKoaMPNt_nHJQZWN2s46AcxQz5L42kHk2RA/864x1080.png",
+              "width": 864
+            },
+            {
+              "height": 773,
+              "url": "http://a.mktgcdn.com/p/zYBqCWYMcKoaMPNt_nHJQZWN2s46AcxQz5L42kHk2RA/619x773.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/zYBqCWYMcKoaMPNt_nHJQZWN2s46AcxQz5L42kHk2RA/360x450.png",
+              "width": 360
+            },
+            {
+              "height": 245,
+              "url": "http://a.mktgcdn.com/p/zYBqCWYMcKoaMPNt_nHJQZWN2s46AcxQz5L42kHk2RA/196x245.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/zYBqCWYMcKoaMPNt_nHJQZWN2s46AcxQz5L42kHk2RA/864x1080.png",
+          "width": 864
+        }
+      }
+    ],
+    "yext/price": {
+      "currencyCode": "USD",
+      "value": "45"
+    },
+    "yext/richTextDescription": "The Nike Sportswear Shorts have a breathable mesh lining and lightweight woven fabric. The back pocket has a drainage grommet ideal for days spent in or out of the water.",
+    "yext/slug": "bottoms/[[entityId]].html"
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

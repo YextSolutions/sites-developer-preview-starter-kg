@@ -1,0 +1,73 @@
+{
+  "$id": "top-3",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/brand": "Gucci",
+    "yext/color": "Multi",
+    "yext/name": "Disney Appliquéd Striped Perforated Cotton T-Shirt",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1820,
+          "thumbnails": [
+            {
+              "height": 1820,
+              "url": "http://a.mktgcdn.com/p/rtVn8BUYINiiJZOnNIrkcRlciNafdtAnj4YzyVrn8Ag/1365x1820.jpg",
+              "width": 1365
+            },
+            {
+              "height": 825,
+              "url": "http://a.mktgcdn.com/p/rtVn8BUYINiiJZOnNIrkcRlciNafdtAnj4YzyVrn8Ag/619x825.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/rtVn8BUYINiiJZOnNIrkcRlciNafdtAnj4YzyVrn8Ag/337x450.jpg",
+              "width": 337
+            },
+            {
+              "height": 261,
+              "url": "http://a.mktgcdn.com/p/rtVn8BUYINiiJZOnNIrkcRlciNafdtAnj4YzyVrn8Ag/195x261.jpg",
+              "width": 195
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/rtVn8BUYINiiJZOnNIrkcRlciNafdtAnj4YzyVrn8Ag/1365x1820.jpg",
+          "width": 1365
+        }
+      },
+      {
+        "image": {
+          "height": 747,
+          "thumbnails": [
+            {
+              "height": 747,
+              "url": "http://a.mktgcdn.com/p/OWEAhm4U1DGeVq8djwljAVLnc0bLZ40GWK022ZNHi4c/560x747.jpg",
+              "width": 560
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/OWEAhm4U1DGeVq8djwljAVLnc0bLZ40GWK022ZNHi4c/337x450.jpg",
+              "width": 337
+            },
+            {
+              "height": 261,
+              "url": "http://a.mktgcdn.com/p/OWEAhm4U1DGeVq8djwljAVLnc0bLZ40GWK022ZNHi4c/196x261.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/OWEAhm4U1DGeVq8djwljAVLnc0bLZ40GWK022ZNHi4c/560x747.jpg",
+          "width": 560
+        }
+      }
+    ],
+    "yext/price": {
+      "currencyCode": "USD",
+      "value": "630"
+    },
+    "yext/richTextDescription": "Gucci\u0027s partnership with Disney continues apace this season with this T-shirt. Cut from striped perforated cotton, it will look great solo or layered under an overshirt. Take cues from the cheery Donald Duck appliqué by wearing it with something blue, preferably ignoring his laissez-faire attitude to trousers.",
+    "yext/slug": "tops/[[entityId]].html"
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

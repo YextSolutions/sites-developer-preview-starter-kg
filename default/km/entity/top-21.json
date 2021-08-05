@@ -1,0 +1,55 @@
+{
+  "$id": "top-21",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/brand": "Nike",
+    "yext/color": "Soar/Midwest Gold",
+    "yext/name": "Brasil 2020 Vapor Match Away",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 2160,
+          "thumbnails": [
+            {
+              "height": 2160,
+              "url": "http://a.mktgcdn.com/p/qnu9pgAg3Gde-gqZu-Z9DfQpcidYL5LgMKmuFBSqlEU/1728x2160.jpg",
+              "width": 1728
+            },
+            {
+              "height": 1900,
+              "url": "http://a.mktgcdn.com/p/qnu9pgAg3Gde-gqZu-Z9DfQpcidYL5LgMKmuFBSqlEU/1520x1900.jpg",
+              "width": 1520
+            },
+            {
+              "height": 773,
+              "url": "http://a.mktgcdn.com/p/qnu9pgAg3Gde-gqZu-Z9DfQpcidYL5LgMKmuFBSqlEU/619x773.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/qnu9pgAg3Gde-gqZu-Z9DfQpcidYL5LgMKmuFBSqlEU/360x450.jpg",
+              "width": 360
+            },
+            {
+              "height": 245,
+              "url": "http://a.mktgcdn.com/p/qnu9pgAg3Gde-gqZu-Z9DfQpcidYL5LgMKmuFBSqlEU/196x245.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/qnu9pgAg3Gde-gqZu-Z9DfQpcidYL5LgMKmuFBSqlEU/1728x2160.jpg",
+          "width": 1728
+        }
+      }
+    ],
+    "yext/price": {
+      "currencyCode": "USD",
+      "value": "165"
+    },
+    "yext/richTextDescription": "The Brasil Vapor Match Away Jersey gives you the same look worn by your favorite players. Its stretchy, streamlined design moves with you, while breathable fabric wicks sweat and dries exceptionally fast for peak performance. This product is made with 100% recycled polyester.",
+    "yext/sku": "CD0597-427",
+    "yext/slug": "tops/[[entityId]].html"
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

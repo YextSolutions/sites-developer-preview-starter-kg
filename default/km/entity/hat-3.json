@@ -1,0 +1,73 @@
+{
+  "$id": "hat-3",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/brand": "Balenciaga",
+    "yext/color": "Black",
+    "yext/name": "Sony Logo-Embroidered Cotton-Twill Baseball Cap",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1820,
+          "thumbnails": [
+            {
+              "height": 1820,
+              "url": "http://a.mktgcdn.com/p/A2phEyRBoR8KZzHefcoh_FpvgB5IWBbffTISFO3tjqM/1365x1820.jpg",
+              "width": 1365
+            },
+            {
+              "height": 825,
+              "url": "http://a.mktgcdn.com/p/A2phEyRBoR8KZzHefcoh_FpvgB5IWBbffTISFO3tjqM/619x825.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/A2phEyRBoR8KZzHefcoh_FpvgB5IWBbffTISFO3tjqM/337x450.jpg",
+              "width": 337
+            },
+            {
+              "height": 261,
+              "url": "http://a.mktgcdn.com/p/A2phEyRBoR8KZzHefcoh_FpvgB5IWBbffTISFO3tjqM/195x261.jpg",
+              "width": 195
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/A2phEyRBoR8KZzHefcoh_FpvgB5IWBbffTISFO3tjqM/1365x1820.jpg",
+          "width": 1365
+        }
+      },
+      {
+        "image": {
+          "height": 747,
+          "thumbnails": [
+            {
+              "height": 747,
+              "url": "http://a.mktgcdn.com/p/nOAZR8H_VVW_T-72uXO67cnjblKm54-sVtfzTpNiQjw/560x747.jpg",
+              "width": 560
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/nOAZR8H_VVW_T-72uXO67cnjblKm54-sVtfzTpNiQjw/337x450.jpg",
+              "width": 337
+            },
+            {
+              "height": 261,
+              "url": "http://a.mktgcdn.com/p/nOAZR8H_VVW_T-72uXO67cnjblKm54-sVtfzTpNiQjw/196x261.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/nOAZR8H_VVW_T-72uXO67cnjblKm54-sVtfzTpNiQjw/560x747.jpg",
+          "width": 560
+        }
+      }
+    ],
+    "yext/price": {
+      "currencyCode": "USD",
+      "value": "495"
+    },
+    "yext/richTextDescription": "Designed in collaboration with Sony, Balenciaga\u0027s baseball cap is embroidered with PS5 branding - after breaking a 24-year console sales record, the tech gadget is nearly as covetable as the house\u0027s cult accessories. It\u0027s made from cotton-twill and embroidered with aerating eyelets.",
+    "yext/slug": "hats/[[entityId]].html"
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

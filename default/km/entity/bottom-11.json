@@ -1,0 +1,74 @@
+{
+  "$id": "bottom-11",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/brand": "Chopova Lowena",
+    "yext/color": "Multi",
+    "yext/name": "Multicolor Faye Wei Wei Marbled Jeans",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1416,
+          "thumbnails": [
+            {
+              "height": 1416,
+              "url": "http://a.mktgcdn.com/p/6kieGuJsDUwYaPiFTULG6K8ZugrmkvWtRrSkXxhF8HI/600x1416.jpg",
+              "width": 600
+            },
+            {
+              "height": 1000,
+              "url": "http://a.mktgcdn.com/p/6kieGuJsDUwYaPiFTULG6K8ZugrmkvWtRrSkXxhF8HI/423x1000.jpg",
+              "width": 423
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/6kieGuJsDUwYaPiFTULG6K8ZugrmkvWtRrSkXxhF8HI/190x450.jpg",
+              "width": 190
+            },
+            {
+              "height": 400,
+              "url": "http://a.mktgcdn.com/p/6kieGuJsDUwYaPiFTULG6K8ZugrmkvWtRrSkXxhF8HI/169x400.jpg",
+              "width": 169
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/6kieGuJsDUwYaPiFTULG6K8ZugrmkvWtRrSkXxhF8HI/600x1416.jpg",
+          "width": 600
+        }
+      },
+      {
+        "image": {
+          "height": 1392,
+          "thumbnails": [
+            {
+              "height": 1392,
+              "url": "http://a.mktgcdn.com/p/J-tKsJwOehElnVQ5e2nrH4GqkuSK9B1xB_DTiU11nLg/409x1392.jpg",
+              "width": 409
+            },
+            {
+              "height": 999,
+              "url": "http://a.mktgcdn.com/p/J-tKsJwOehElnVQ5e2nrH4GqkuSK9B1xB_DTiU11nLg/293x999.jpg",
+              "width": 293
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/J-tKsJwOehElnVQ5e2nrH4GqkuSK9B1xB_DTiU11nLg/132x450.jpg",
+              "width": 132
+            },
+            {
+              "height": 400,
+              "url": "http://a.mktgcdn.com/p/J-tKsJwOehElnVQ5e2nrH4GqkuSK9B1xB_DTiU11nLg/117x400.jpg",
+              "width": 117
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/J-tKsJwOehElnVQ5e2nrH4GqkuSK9B1xB_DTiU11nLg/409x1392.jpg",
+          "width": 409
+        }
+      }
+    ],
+    "yext/richTextDescription": "Wide\\-leg non\\-stretch denim jeans featuring pattern in multicolor throughout. Mid\\-rise. Two\\-pocket styling. Belt loops at waistband. Textile patch at front and back waistband. Zip\\-fly. Silver\\-tone hardware. Contrast stitching in tan.",
+    "yext/slug": "bottoms/[[entityId]].html"
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

@@ -1,0 +1,73 @@
+{
+  "$id": "shoe-17",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/brand": "Bottega Veneta",
+    "yext/color": "Pink",
+    "yext/name": "Pink Rubber Sandals",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1820,
+          "thumbnails": [
+            {
+              "height": 1820,
+              "url": "http://a.mktgcdn.com/p/whpFBaiYvi544w_ya5tZBK7IZzapzvn73FSeLQHqRSY/1365x1820.jpg",
+              "width": 1365
+            },
+            {
+              "height": 825,
+              "url": "http://a.mktgcdn.com/p/whpFBaiYvi544w_ya5tZBK7IZzapzvn73FSeLQHqRSY/619x825.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/whpFBaiYvi544w_ya5tZBK7IZzapzvn73FSeLQHqRSY/337x450.jpg",
+              "width": 337
+            },
+            {
+              "height": 261,
+              "url": "http://a.mktgcdn.com/p/whpFBaiYvi544w_ya5tZBK7IZzapzvn73FSeLQHqRSY/195x261.jpg",
+              "width": 195
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/whpFBaiYvi544w_ya5tZBK7IZzapzvn73FSeLQHqRSY/1365x1820.jpg",
+          "width": 1365
+        }
+      },
+      {
+        "image": {
+          "height": 747,
+          "thumbnails": [
+            {
+              "height": 747,
+              "url": "http://a.mktgcdn.com/p/-e5mIox41loiWxyT-UZcOrr3lJcQS82d-b-pnGXfi_E/560x747.jpg",
+              "width": 560
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/-e5mIox41loiWxyT-UZcOrr3lJcQS82d-b-pnGXfi_E/337x450.jpg",
+              "width": 337
+            },
+            {
+              "height": 261,
+              "url": "http://a.mktgcdn.com/p/-e5mIox41loiWxyT-UZcOrr3lJcQS82d-b-pnGXfi_E/196x261.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/-e5mIox41loiWxyT-UZcOrr3lJcQS82d-b-pnGXfi_E/560x747.jpg",
+          "width": 560
+        }
+      }
+    ],
+    "yext/price": {
+      "currencyCode": "USD",
+      "value": "510"
+    },
+    "yext/richTextDescription": "When comfort is your concern, Bottega Veneta\u0027s sandals offer ease and support. They\u0027ve been made in Italy from smooth rubber and set on serrated soles for traction. The thick straps ensure a secure fit.",
+    "yext/slug": "shoes/[[entityId]].html"
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

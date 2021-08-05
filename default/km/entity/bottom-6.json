@@ -1,0 +1,83 @@
+{
+  "$id": "bottom-6",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/brand": "Gucci",
+    "yext/color": "Gray",
+    "yext/name": "Wide-Leg Pleated Wool-Flannel Shorts",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1820,
+          "thumbnails": [
+            {
+              "height": 1820,
+              "url": "http://a.mktgcdn.com/p/3Jh08azjoH0f5X35wf3EVRDugSvS0U7ZEWwAFoiomzI/1365x1820.jpg",
+              "width": 1365
+            },
+            {
+              "height": 825,
+              "url": "http://a.mktgcdn.com/p/3Jh08azjoH0f5X35wf3EVRDugSvS0U7ZEWwAFoiomzI/619x825.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/3Jh08azjoH0f5X35wf3EVRDugSvS0U7ZEWwAFoiomzI/337x450.jpg",
+              "width": 337
+            },
+            {
+              "height": 261,
+              "url": "http://a.mktgcdn.com/p/3Jh08azjoH0f5X35wf3EVRDugSvS0U7ZEWwAFoiomzI/195x261.jpg",
+              "width": 195
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/3Jh08azjoH0f5X35wf3EVRDugSvS0U7ZEWwAFoiomzI/1365x1820.jpg",
+          "width": 1365
+        }
+      },
+      {
+        "image": {
+          "height": 2667,
+          "thumbnails": [
+            {
+              "height": 2667,
+              "url": "http://a.mktgcdn.com/p/VeCWiVwnRLKxSNBnO-UX_sqTQJOtsOwvPqYQMBdoEA8/2000x2667.jpg",
+              "width": 2000
+            },
+            {
+              "height": 1900,
+              "url": "http://a.mktgcdn.com/p/VeCWiVwnRLKxSNBnO-UX_sqTQJOtsOwvPqYQMBdoEA8/1424x1900.jpg",
+              "width": 1424
+            },
+            {
+              "height": 825,
+              "url": "http://a.mktgcdn.com/p/VeCWiVwnRLKxSNBnO-UX_sqTQJOtsOwvPqYQMBdoEA8/619x825.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/VeCWiVwnRLKxSNBnO-UX_sqTQJOtsOwvPqYQMBdoEA8/337x450.jpg",
+              "width": 337
+            },
+            {
+              "height": 261,
+              "url": "http://a.mktgcdn.com/p/VeCWiVwnRLKxSNBnO-UX_sqTQJOtsOwvPqYQMBdoEA8/196x261.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/VeCWiVwnRLKxSNBnO-UX_sqTQJOtsOwvPqYQMBdoEA8/2000x2667.jpg",
+          "width": 2000
+        }
+      }
+    ],
+    "yext/price": {
+      "currencyCode": "USD",
+      "value": "950"
+    },
+    "yext/richTextDescription": "Gucci\u0027s AW20 collection is inspired by Mr Alessandro Michele’s childhood and includes tailored shorts that take their cue from school uniforms - at the show they were styled with shrunken blazers and knee-high socks. This pair is tailored from grey wool-flannel and pleated at the waistband to enhance the wide-leg shape. Use the side adjusters to personalise the fit.",
+    "yext/slug": "bottoms/[[entityId]].html"
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

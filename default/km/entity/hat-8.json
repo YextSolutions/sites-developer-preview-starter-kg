@@ -1,0 +1,78 @@
+{
+  "$id": "hat-8",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/brand": "Maison Michel",
+    "yext/color": "Cream",
+    "yext/name": "Virginie grosgrain-trimmed wool-felt fedora",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1380,
+          "thumbnails": [
+            {
+              "height": 1380,
+              "url": "http://a.mktgcdn.com/p/Z5OeCNhBmf3Q5RrJNvA2y_sJ5-8XdbM-xrF8a5FUiHc/920x1380.jpg",
+              "width": 920
+            },
+            {
+              "height": 928,
+              "url": "http://a.mktgcdn.com/p/Z5OeCNhBmf3Q5RrJNvA2y_sJ5-8XdbM-xrF8a5FUiHc/619x928.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/Z5OeCNhBmf3Q5RrJNvA2y_sJ5-8XdbM-xrF8a5FUiHc/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p/Z5OeCNhBmf3Q5RrJNvA2y_sJ5-8XdbM-xrF8a5FUiHc/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/Z5OeCNhBmf3Q5RrJNvA2y_sJ5-8XdbM-xrF8a5FUiHc/920x1380.jpg",
+          "width": 920
+        }
+      },
+      {
+        "image": {
+          "height": 1380,
+          "thumbnails": [
+            {
+              "height": 1380,
+              "url": "http://a.mktgcdn.com/p/TEIpp3u7F5DsCVYJZJuKwUIU_un4ADu-rC_VC2el0Sg/920x1380.jpg",
+              "width": 920
+            },
+            {
+              "height": 928,
+              "url": "http://a.mktgcdn.com/p/TEIpp3u7F5DsCVYJZJuKwUIU_un4ADu-rC_VC2el0Sg/619x928.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/TEIpp3u7F5DsCVYJZJuKwUIU_un4ADu-rC_VC2el0Sg/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p/TEIpp3u7F5DsCVYJZJuKwUIU_un4ADu-rC_VC2el0Sg/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/TEIpp3u7F5DsCVYJZJuKwUIU_un4ADu-rC_VC2el0Sg/920x1380.jpg",
+          "width": 920
+        }
+      }
+    ],
+    "yext/price": {
+      "currencyCode": "USD",
+      "value": "690"
+    },
+    "yext/richTextDescription": "With over 4000 styles in its archives, Maison Michel\u0027s \u0027Virginie\u0027 fedora is one of the most recognizable - the asymmetrically sculpted crown is designed to fit and suit every head shape. Crafted by artisans in the brand\u0027s Spanish workshop, it\u0027s made from soft cream wool-felt and framed by a tonal grosgrain ribbon and wide, structured brim.",
+    "yext/slug": "hats/[[entityId]].html"
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

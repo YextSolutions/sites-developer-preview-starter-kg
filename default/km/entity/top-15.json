@@ -1,0 +1,55 @@
+{
+  "$id": "top-15",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/brand": "Nike",
+    "yext/color": "White/Loyal Blue/Loyal Blue",
+    "yext/name": "U.S.A. Men\u0027s Pre-Match Short-Sleeve Soccer Top",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 2160,
+          "thumbnails": [
+            {
+              "height": 2160,
+              "url": "http://a.mktgcdn.com/p/t46o5oXLqMnFr86stzBaVaO53eU94Wo135S6OOxyL0k/1728x2160.jpg",
+              "width": 1728
+            },
+            {
+              "height": 1900,
+              "url": "http://a.mktgcdn.com/p/t46o5oXLqMnFr86stzBaVaO53eU94Wo135S6OOxyL0k/1520x1900.jpg",
+              "width": 1520
+            },
+            {
+              "height": 773,
+              "url": "http://a.mktgcdn.com/p/t46o5oXLqMnFr86stzBaVaO53eU94Wo135S6OOxyL0k/619x773.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/t46o5oXLqMnFr86stzBaVaO53eU94Wo135S6OOxyL0k/360x450.jpg",
+              "width": 360
+            },
+            {
+              "height": 245,
+              "url": "http://a.mktgcdn.com/p/t46o5oXLqMnFr86stzBaVaO53eU94Wo135S6OOxyL0k/196x245.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/t46o5oXLqMnFr86stzBaVaO53eU94Wo135S6OOxyL0k/1728x2160.jpg",
+          "width": 1728
+        }
+      }
+    ],
+    "yext/price": {
+      "currencyCode": "USD",
+      "value": "65"
+    },
+    "yext/richTextDescription": "The U.S. Top gives you the same look as your favorite players. Sweat-wicking fabric is lightweight and breathable to help keep you cool while you\u0027re warming up for the game.",
+    "yext/sku": "CZ4327-100",
+    "yext/slug": "tops/[[entityId]].html"
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

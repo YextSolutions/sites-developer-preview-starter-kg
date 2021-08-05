@@ -1,0 +1,49 @@
+{
+  "$id": "hat-6",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/brand": "Kapital",
+    "yext/color": "Purple",
+    "yext/name": "Patchwork Bandana-Print Cotton Bucket Hat",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1820,
+          "thumbnails": [
+            {
+              "height": 1820,
+              "url": "http://a.mktgcdn.com/p/sP_7gEGAJba0NM6oMBpdXPPIL3eqSFf6InT-UotrD1U/1365x1820.jpg",
+              "width": 1365
+            },
+            {
+              "height": 825,
+              "url": "http://a.mktgcdn.com/p/sP_7gEGAJba0NM6oMBpdXPPIL3eqSFf6InT-UotrD1U/619x825.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/sP_7gEGAJba0NM6oMBpdXPPIL3eqSFf6InT-UotrD1U/337x450.jpg",
+              "width": 337
+            },
+            {
+              "height": 261,
+              "url": "http://a.mktgcdn.com/p/sP_7gEGAJba0NM6oMBpdXPPIL3eqSFf6InT-UotrD1U/195x261.jpg",
+              "width": 195
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/sP_7gEGAJba0NM6oMBpdXPPIL3eqSFf6InT-UotrD1U/1365x1820.jpg",
+          "width": 1365
+        }
+      }
+    ],
+    "yext/price": {
+      "currencyCode": "USD",
+      "value": "165"
+    },
+    "yext/richTextDescription": "KAPITAL is inspired by American workwear, so naturally bandana motifs play a role in each season\u0027s collection. This cotton bucket hat features a patchwork version of the paisley motif.",
+    "yext/slug": "hats/[[entityId]].html"
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

@@ -1,0 +1,50 @@
+{
+  "$id": "shoe-4",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/brand": "Nike",
+    "yext/color": "Black/Ghost Green/Black/White",
+    "yext/name": "Jordan LS Slide",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1080,
+          "thumbnails": [
+            {
+              "height": 1080,
+              "url": "http://a.mktgcdn.com/p/4D8f_Ag0qdVu4ZF5qVdu4eGuXmg6QOwPTOYkxpypycY/864x1080.jpg",
+              "width": 864
+            },
+            {
+              "height": 773,
+              "url": "http://a.mktgcdn.com/p/4D8f_Ag0qdVu4ZF5qVdu4eGuXmg6QOwPTOYkxpypycY/619x773.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/4D8f_Ag0qdVu4ZF5qVdu4eGuXmg6QOwPTOYkxpypycY/360x450.jpg",
+              "width": 360
+            },
+            {
+              "height": 245,
+              "url": "http://a.mktgcdn.com/p/4D8f_Ag0qdVu4ZF5qVdu4eGuXmg6QOwPTOYkxpypycY/196x245.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/4D8f_Ag0qdVu4ZF5qVdu4eGuXmg6QOwPTOYkxpypycY/864x1080.jpg",
+          "width": 864
+        }
+      }
+    ],
+    "yext/price": {
+      "currencyCode": "USD",
+      "value": "80"
+    },
+    "yext/richTextDescription": "Fresh and functional, the Jordan LS Slide offers step-in comfort. It has an adjustable fold-over strap built on a Solarsoft foam footbed, plus a removable heel strap to personalize your fit. A removable stash pocket ups the utility.",
+    "yext/sku": "CZ0791-002",
+    "yext/slug": "shoes/[[entityId]].html"
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

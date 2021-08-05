@@ -1,0 +1,50 @@
+{
+  "$id": "shoe-8",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/brand": "Nike",
+    "yext/color": "University Blue/Multi-Color/Metallic Gold",
+    "yext/name": "LeBron 18 \"Best 1-9\"",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 1080,
+          "thumbnails": [
+            {
+              "height": 1080,
+              "url": "http://a.mktgcdn.com/p/iq2Bg6WscOofG590q_DNrasBEqMQBCNzpvA17H2QqRY/864x1080.jpg",
+              "width": 864
+            },
+            {
+              "height": 773,
+              "url": "http://a.mktgcdn.com/p/iq2Bg6WscOofG590q_DNrasBEqMQBCNzpvA17H2QqRY/619x773.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/iq2Bg6WscOofG590q_DNrasBEqMQBCNzpvA17H2QqRY/360x450.jpg",
+              "width": 360
+            },
+            {
+              "height": 245,
+              "url": "http://a.mktgcdn.com/p/iq2Bg6WscOofG590q_DNrasBEqMQBCNzpvA17H2QqRY/196x245.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/iq2Bg6WscOofG590q_DNrasBEqMQBCNzpvA17H2QqRY/864x1080.jpg",
+          "width": 864
+        }
+      }
+    ],
+    "yext/price": {
+      "currencyCode": "USD",
+      "value": "200"
+    },
+    "yext/richTextDescription": "When LeBron accelerates down the court, he produces tremendous force. The LeBron 18 \"Best 1-9\" is designed to harness his abilities while helping with the stress he puts on his body. Combined cushioning underfoot helps him to use his power for unstoppable bursts of speed. This eclectic colorway combines hues from some of the most renowned colorways throughout the history of The King\u0027s signature line.",
+    "yext/sku": "DM2813-400",
+    "yext/slug": "shoes/[[entityId]].html"
+  },
+  "entityType": "yext/product",
+  "labels": []
+}

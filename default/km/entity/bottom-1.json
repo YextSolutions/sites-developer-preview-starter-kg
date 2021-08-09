@@ -3,10 +3,6 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_relatedProducts": [
-      "bottom-2",
-      "bottom-3"
-    ],
     "yext/brand": "Nike",
     "yext/color": "Chlorine Blue/Black",
     "yext/name": "Nike Sportswear Shorts",

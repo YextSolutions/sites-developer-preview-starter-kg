@@ -1,0 +1,135 @@
+{
+  "$id": "loc6",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_relatedFAQs": [
+      "4043242627927666167",
+      "3586901695238214924"
+    ],
+    "yext/address": {
+      "city": "New York",
+      "countryCode": "US",
+      "line1": "60 W 23rd St",
+      "postalCode": "10010",
+      "region": "NY"
+    },
+    "yext/categoryIds": [
+      "263"
+    ],
+    "yext/description": "Yext’s Fashion Warehouse is a multi-retailer headquartered in New York, NY specializing in designer fashion, high-end streetwear, and sportswear. You can find us in over 17 locations in NYC, Chicago, Miami, and San Francisco.",
+    "yext/hours": {
+      "friday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "19:00",
+            "start": "10:00"
+          }
+        ]
+      },
+      "monday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "19:00",
+            "start": "10:00"
+          }
+        ]
+      },
+      "saturday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "20:00",
+            "start": "08:00"
+          }
+        ]
+      },
+      "sunday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "19:00",
+            "start": "10:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "19:00",
+            "start": "10:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "19:00",
+            "start": "10:00"
+          }
+        ]
+      }
+    },
+    "yext/mainPhone": "+12129943900",
+    "yext/name": "Yext\u0027s Fashion Warehouse",
+    "yext/neighborhood": "Chelsea",
+    "yext/paymentOptions": [
+      "AMERICANEXPRESS",
+      "APPLEPAY",
+      "BITCOIN",
+      "CASH",
+      "CHECK",
+      "MASTERCARD",
+      "PAYPAL",
+      "VISA"
+    ],
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 817,
+          "sourceUrl": "https://mma.prnewswire.com/media/1499467/FinancialTimes_FastestGrowing_Yext__Inc.jpg?p\u003dfacebook",
+          "thumbnails": [
+            {
+              "height": 817,
+              "url": "https://a.mktgcdn.com/p/NIb_6lhCZy78Vx19Hxx9zzA4pre4_f3eZLuTFXiqljQ/1560x817.jpg",
+              "width": 1560
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/NIb_6lhCZy78Vx19Hxx9zzA4pre4_f3eZLuTFXiqljQ/1560x817.jpg",
+          "width": 1560
+        }
+      },
+      {
+        "image": {
+          "height": 3024,
+          "sourceUrl": "https://engblog.yext.com/img/2019-05-01-codenation-visit-spring-2019/arrival2.jpg",
+          "thumbnails": [
+            {
+              "height": 3024,
+              "url": "https://a.mktgcdn.com/p/SOd96TOl8eXGdgThYmtEdmAYgfHz_o9Lw1hB95B_5lk/4032x3024.jpg",
+              "width": 4032
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/SOd96TOl8eXGdgThYmtEdmAYgfHz_o9Lw1hB95B_5lk/4032x3024.jpg",
+          "width": 4032
+        }
+      }
+    ],
+    "yext/priceRange": "FOUR",
+    "yext/services": [
+      "Clothing",
+      "Tailoring"
+    ],
+    "yext/slug": "[[entityId]]-[[neighborhood]]",
+    "yext/timezone": "America/New_York"
+  },
+  "entityType": "yext/location",
+  "labels": []
+}

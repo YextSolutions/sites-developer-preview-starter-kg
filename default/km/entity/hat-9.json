@@ -3,10 +3,10 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "yext/brand": "Loewe",
-    "yext/color": "Sand",
-    "yext/name": "Paula\u0027s Ibiza leather-trimmed cotton-canvas bucket hat",
-    "yext/photoGallery": [
+    "brand": "Loewe",
+    "color": "Sand",
+    "name": "Paula\u0027s Ibiza leather-trimmed cotton-canvas bucket hat",
+    "photoGallery": [
       {
         "image": {
           "height": 1380,
@@ -66,13 +66,13 @@
         }
       }
     ],
-    "yext/price": {
+    "price": {
       "currencyCode": "USD",
       "value": "450"
     },
-    "yext/richTextDescription": "Part of Loewe\u0027s Spring \u002721 collaboration with Paula\u0027s Ibiza, this bucket hat has been made in Italy from sand cotton-canvas and topped with a leather \u0027Anagram\u0027 patch. It has a classic topstitched brim and logo-print ties for a secure fit.",
-    "yext/slug": "hats/[[entityId]].html"
+    "richTextDescription": "Part of Loewe\u0027s Spring \u002721 collaboration with Paula\u0027s Ibiza, this bucket hat has been made in Italy from sand cotton-canvas and topped with a leather \u0027Anagram\u0027 patch. It has a classic topstitched brim and logo-print ties for a secure fit.",
+    "slug": "hats/[[entityId]].html"
   },
-  "entityType": "yext/product",
+  "entityType": "product",
   "labels": []
 }

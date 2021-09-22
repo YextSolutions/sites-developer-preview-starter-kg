@@ -3,10 +3,10 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "yext/brand": "Loewe",
-    "yext/color": "Black",
-    "yext/name": "Paula\u0027s Ibiza Printed Cotton-Jersey T-Shirt",
-    "yext/photoGallery": [
+    "brand": "Loewe",
+    "color": "Black",
+    "name": "Paula\u0027s Ibiza Printed Cotton-Jersey T-Shirt",
+    "photoGallery": [
       {
         "image": {
           "height": 1820,
@@ -71,13 +71,13 @@
         }
       }
     ],
-    "yext/price": {
+    "price": {
       "currencyCode": "USD",
       "value": "550"
     },
-    "yext/richTextDescription": "Loewe has collaborated with Paula\u0027s Ibiza again on a collection inspired by the boutique\u0027s archive. This cotton-jersey T-shirt features an airbrush-style landscape on the front and a cosmic seascape on the back.",
-    "yext/slug": "tops/[[entityId]].html"
+    "richTextDescription": "Loewe has collaborated with Paula\u0027s Ibiza again on a collection inspired by the boutique\u0027s archive. This cotton-jersey T-shirt features an airbrush-style landscape on the front and a cosmic seascape on the back.",
+    "slug": "tops/[[entityId]].html"
   },
-  "entityType": "yext/product",
+  "entityType": "product",
   "labels": []
 }

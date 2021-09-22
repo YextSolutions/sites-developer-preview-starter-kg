@@ -3,10 +3,10 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "yext/brand": "Enfants Riches Déprimés",
-    "yext/color": "Ivory",
-    "yext/name": "Printed Cotton-Jersey T-Shirt",
-    "yext/photoGallery": [
+    "brand": "Enfants Riches Déprimés",
+    "color": "Ivory",
+    "name": "Printed Cotton-Jersey T-Shirt",
+    "photoGallery": [
       {
         "image": {
           "height": 1820,
@@ -71,13 +71,13 @@
         }
       }
     ],
-    "yext/price": {
+    "price": {
       "currencyCode": "USD",
       "value": "715"
     },
-    "yext/richTextDescription": "Enfants Riches Déprimés\u0027 T-shirt is printed with a design inspired by ​Buffalo \u002766, Mr Vincent Gallo\u0027s idiosyncratic dramedy from 1998. Finished with a rolled hem, it\u0027s cut from cotton-jersey that\u0027s specially washed to create a vintage look and feel.",
-    "yext/slug": "tops/[[entityId]].html"
+    "richTextDescription": "Enfants Riches Déprimés\u0027 T-shirt is printed with a design inspired by ​Buffalo \u002766, Mr Vincent Gallo\u0027s idiosyncratic dramedy from 1998. Finished with a rolled hem, it\u0027s cut from cotton-jersey that\u0027s specially washed to create a vintage look and feel.",
+    "slug": "tops/[[entityId]].html"
   },
-  "entityType": "yext/product",
+  "entityType": "product",
   "labels": []
 }

@@ -3,10 +3,10 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "yext/brand": "Nike",
-    "yext/color": "Pale Ivory/Black/Alpha Orange/Pink Blast",
-    "yext/name": "Jordan One Take II",
-    "yext/photoGallery": [
+    "brand": "Nike",
+    "color": "Pale Ivory/Black/Alpha Orange/Pink Blast",
+    "name": "Jordan One Take II",
+    "photoGallery": [
       {
         "image": {
           "height": 1080,
@@ -37,14 +37,14 @@
         }
       }
     ],
-    "yext/price": {
+    "price": {
       "currencyCode": "USD",
       "value": "100"
     },
-    "yext/richTextDescription": "Russell Westbrook backs up his brashness with a fast, aggressive playing style and numbers that place him among the league\u0027s best. His all-new Jordan One Take II embodies his edginess and speed. Colors, textures and design lines speak to Russ\u0027 persona both on and off the court.",
-    "yext/sku": "CW2457-108",
-    "yext/slug": "shoes/[[entityId]].html"
+    "richTextDescription": "Russell Westbrook backs up his brashness with a fast, aggressive playing style and numbers that place him among the league\u0027s best. His all-new Jordan One Take II embodies his edginess and speed. Colors, textures and design lines speak to Russ\u0027 persona both on and off the court.",
+    "sku": "CW2457-108",
+    "slug": "shoes/[[entityId]].html"
   },
-  "entityType": "yext/product",
+  "entityType": "product",
   "labels": []
 }

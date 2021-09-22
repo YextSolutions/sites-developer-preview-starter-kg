@@ -3,10 +3,10 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "yext/brand": "Amiri",
-    "yext/color": "Blue",
-    "yext/name": "Striped Crocheted Cotton Bucket Hat",
-    "yext/photoGallery": [
+    "brand": "Amiri",
+    "color": "Blue",
+    "name": "Striped Crocheted Cotton Bucket Hat",
+    "photoGallery": [
       {
         "image": {
           "height": 1820,
@@ -37,13 +37,13 @@
         }
       }
     ],
-    "yext/price": {
+    "price": {
       "currencyCode": "USD",
       "value": "590"
     },
-    "yext/richTextDescription": "Wide-leg pants, light-wash denim - \u002790s trends are back, and crocheted buckets hats are up next. AMIRI\u0027s version is designed with stripes and has a hidden wire in the brim so you can adjust the shape.",
-    "yext/slug": "hats/[[entityId]].html"
+    "richTextDescription": "Wide-leg pants, light-wash denim - \u002790s trends are back, and crocheted buckets hats are up next. AMIRI\u0027s version is designed with stripes and has a hidden wire in the brim so you can adjust the shape.",
+    "slug": "hats/[[entityId]].html"
   },
-  "entityType": "yext/product",
+  "entityType": "product",
   "labels": []
 }

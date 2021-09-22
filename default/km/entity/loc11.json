@@ -7,18 +7,18 @@
       "4043242627927666167",
       "3586901695238214924"
     ],
-    "yext/address": {
+    "address": {
       "city": "Chicago",
       "countryCode": "US",
       "line1": "555 W Roosevelt Rd",
       "postalCode": "60607",
       "region": "IL"
     },
-    "yext/categoryIds": [
+    "categoryIds": [
       "263"
     ],
-    "yext/description": "Yext’s Fashion Warehouse is a multi-retailer headquartered in New York, NY specializing in designer fashion, high-end streetwear, and sportswear. You can find us in over 17 locations in NYC, Chicago, Miami, and San Francisco.",
-    "yext/hours": {
+    "description": "Yext’s Fashion Warehouse is a multi-retailer headquartered in New York, NY specializing in designer fashion, high-end streetwear, and sportswear. You can find us in over 17 locations in NYC, Chicago, Miami, and San Francisco.",
+    "hours": {
       "friday": {
         "isClosed": false,
         "openIntervals": [
@@ -77,10 +77,10 @@
         ]
       }
     },
-    "yext/mainPhone": "+12129943900",
-    "yext/name": "Yext\u0027s Fashion Warehouse",
-    "yext/neighborhood": "South Loop",
-    "yext/paymentOptions": [
+    "mainPhone": "+12129943900",
+    "name": "Yext\u0027s Fashion Warehouse",
+    "neighborhood": "South Loop",
+    "paymentOptions": [
       "AMERICANEXPRESS",
       "APPLEPAY",
       "BITCOIN",
@@ -90,7 +90,7 @@
       "PAYPAL",
       "VISA"
     ],
-    "yext/photoGallery": [
+    "photoGallery": [
       {
         "image": {
           "height": 817,
@@ -122,14 +122,14 @@
         }
       }
     ],
-    "yext/priceRange": "FOUR",
-    "yext/services": [
+    "priceRange": "FOUR",
+    "services": [
       "Clothing",
       "Tailoring"
     ],
-    "yext/slug": "[[entityId]]-[[neighborhood]]",
-    "yext/timezone": "America/Chicago"
+    "slug": "[[entityId]]-[[neighborhood]]",
+    "timezone": "America/Chicago"
   },
-  "entityType": "yext/location",
+  "entityType": "location",
   "labels": []
 }

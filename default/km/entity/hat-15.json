@@ -3,10 +3,10 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "yext/brand": "Nike",
-    "yext/color": "Fire Red",
-    "yext/name": "Ash Ketchum Baseball Cap",
-    "yext/photoGallery": [
+    "brand": "Nike",
+    "color": "Fire Red",
+    "name": "Ash Ketchum Baseball Cap",
+    "photoGallery": [
       {
         "image": {
           "height": 647,
@@ -66,13 +66,13 @@
         }
       }
     ],
-    "yext/price": {
+    "price": {
       "currencyCode": "USD",
       "value": "12000"
     },
-    "yext/richTextDescription": "Wanna be the very best? Like no one ever was? This Ash Ketchum flat bill, five panel, high\\-profile hat has a snapback closure. This hat is perfect for Pokemon trainers who want to take their game to the next level.",
-    "yext/slug": "hats/[[entityId]].html"
+    "richTextDescription": "Wanna be the very best? Like no one ever was? This Ash Ketchum flat bill, five panel, high\\-profile hat has a snapback closure. This hat is perfect for Pokemon trainers who want to take their game to the next level.",
+    "slug": "hats/[[entityId]].html"
   },
-  "entityType": "yext/product",
+  "entityType": "product",
   "labels": []
 }

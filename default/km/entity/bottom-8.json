@@ -3,10 +3,10 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "yext/brand": "Gucci",
-    "yext/color": "Camel",
-    "yext/name": "Beige GG Logo Lounge Pants",
-    "yext/photoGallery": [
+    "brand": "Gucci",
+    "color": "Camel",
+    "name": "Beige GG Logo Lounge Pants",
+    "photoGallery": [
       {
         "image": {
           "height": 1408,
@@ -66,13 +66,13 @@
         }
       }
     ],
-    "yext/price": {
+    "price": {
       "currencyCode": "USD",
       "value": "20"
     },
-    "yext/richTextDescription": "Relaxed\\-fit cotton\\-blend jersey lounge pants featuring logo pattern in beige and brown. Mid\\-rise. Two\\-pocket styling. Drawstring in off\\-white at elasticized waistband. Rib knit cuffs in beige.",
-    "yext/slug": "bottoms/[[entityId]].html"
+    "richTextDescription": "Relaxed\\-fit cotton\\-blend jersey lounge pants featuring logo pattern in beige and brown. Mid\\-rise. Two\\-pocket styling. Drawstring in off\\-white at elasticized waistband. Rib knit cuffs in beige.",
+    "slug": "bottoms/[[entityId]].html"
   },
-  "entityType": "yext/product",
+  "entityType": "product",
   "labels": []
 }

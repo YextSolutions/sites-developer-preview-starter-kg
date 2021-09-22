@@ -16,9 +16,9 @@
       "bottom-10",
       "bottom-11"
     ],
-    "yext/name": "Bottoms",
-    "yext/richTextDescription": "Elevate your wardrobe with our collection of designer pants and trousers. Whether you\u0027re looking for formal officewear, casual pants for a relaxing weekend, or dress pants for your next evening engagement, you will be sure to find the perfect piece among our selection.",
-    "yext/slug": "[[entityId]].html"
+    "name": "Bottoms",
+    "richTextDescription": "Elevate your wardrobe with our collection of designer pants and trousers. Whether you\u0027re looking for formal officewear, casual pants for a relaxing weekend, or dress pants for your next evening engagement, you will be sure to find the perfect piece among our selection.",
+    "slug": "[[entityId]].html"
   },
   "entityType": "ce_productCategory",
   "labels": []

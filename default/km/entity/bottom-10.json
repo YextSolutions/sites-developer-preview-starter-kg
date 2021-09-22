@@ -3,10 +3,10 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "yext/brand": "Nina Ricci",
-    "yext/color": "Lilac",
-    "yext/name": "Pink Twill Cargo Trousers",
-    "yext/photoGallery": [
+    "brand": "Nina Ricci",
+    "color": "Lilac",
+    "name": "Pink Twill Cargo Trousers",
+    "photoGallery": [
       {
         "image": {
           "height": 1416,
@@ -66,9 +66,9 @@
         }
       }
     ],
-    "yext/richTextDescription": "Straight\\-leg cotton and silk\\-blend twill trousers in pink. High\\-rise. Four\\-pocket styling. Belt loops at waistband. Pleats at front. Flap pocket and hammer loop at outseams. Central creases at back. Zip\\-fly. Partial silk satin lining. Logo\\-engraved grey hardware.",
-    "yext/slug": "bottoms/[[entityId]].html"
+    "richTextDescription": "Straight\\-leg cotton and silk\\-blend twill trousers in pink. High\\-rise. Four\\-pocket styling. Belt loops at waistband. Pleats at front. Flap pocket and hammer loop at outseams. Central creases at back. Zip\\-fly. Partial silk satin lining. Logo\\-engraved grey hardware.",
+    "slug": "bottoms/[[entityId]].html"
   },
-  "entityType": "yext/product",
+  "entityType": "product",
   "labels": []
 }

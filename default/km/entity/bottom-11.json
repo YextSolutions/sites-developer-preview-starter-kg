@@ -3,10 +3,10 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "yext/brand": "Chopova Lowena",
-    "yext/color": "Multi",
-    "yext/name": "Multicolor Faye Wei Wei Marbled Jeans",
-    "yext/photoGallery": [
+    "brand": "Chopova Lowena",
+    "color": "Multi",
+    "name": "Multicolor Faye Wei Wei Marbled Jeans",
+    "photoGallery": [
       {
         "image": {
           "height": 1416,
@@ -66,9 +66,9 @@
         }
       }
     ],
-    "yext/richTextDescription": "Wide\\-leg non\\-stretch denim jeans featuring pattern in multicolor throughout. Mid\\-rise. Two\\-pocket styling. Belt loops at waistband. Textile patch at front and back waistband. Zip\\-fly. Silver\\-tone hardware. Contrast stitching in tan.",
-    "yext/slug": "bottoms/[[entityId]].html"
+    "richTextDescription": "Wide\\-leg non\\-stretch denim jeans featuring pattern in multicolor throughout. Mid\\-rise. Two\\-pocket styling. Belt loops at waistband. Textile patch at front and back waistband. Zip\\-fly. Silver\\-tone hardware. Contrast stitching in tan.",
+    "slug": "bottoms/[[entityId]].html"
   },
-  "entityType": "yext/product",
+  "entityType": "product",
   "labels": []
 }

@@ -3,10 +3,10 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "yext/brand": "Tom Ford",
-    "yext/color": "Purple",
-    "yext/name": "Brighton Velvet Sandals",
-    "yext/photoGallery": [
+    "brand": "Tom Ford",
+    "color": "Purple",
+    "name": "Brighton Velvet Sandals",
+    "photoGallery": [
       {
         "image": {
           "height": 1820,
@@ -61,13 +61,13 @@
         }
       }
     ],
-    "yext/price": {
+    "price": {
       "currencyCode": "USD",
       "value": "990"
     },
-    "yext/richTextDescription": "TOM FORD\u0027s \u0027Brighton\u0027 sandals have two wide velvet straps that feel soft and plush against your skin. Made in Italy, they\u0027re fitted with quilted satin footbeds that not only add a pop of colour but are lightly padded for comfort, too.",
-    "yext/slug": "shoes/[[entityId]].html"
+    "richTextDescription": "TOM FORD\u0027s \u0027Brighton\u0027 sandals have two wide velvet straps that feel soft and plush against your skin. Made in Italy, they\u0027re fitted with quilted satin footbeds that not only add a pop of colour but are lightly padded for comfort, too.",
+    "slug": "shoes/[[entityId]].html"
   },
-  "entityType": "yext/product",
+  "entityType": "product",
   "labels": []
 }

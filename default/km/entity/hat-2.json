@@ -3,10 +3,10 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "yext/brand": "Gucci",
-    "yext/color": "Green",
-    "yext/name": "Reversible Leather-Trimmed Logo-Jacquard Cotton-Blend Canvas Bucket Hat",
-    "yext/photoGallery": [
+    "brand": "Gucci",
+    "color": "Green",
+    "name": "Reversible Leather-Trimmed Logo-Jacquard Cotton-Blend Canvas Bucket Hat",
+    "photoGallery": [
       {
         "image": {
           "height": 1820,
@@ -61,13 +61,13 @@
         }
       }
     ],
-    "yext/price": {
+    "price": {
       "currencyCode": "USD",
       "value": "590"
     },
-    "yext/richTextDescription": "Gucci\u0027s bucket hat is reversible, so there are double the styling options. Appliquéd with the house\u0027s emblem, it\u0027s made from monogrammed cotton-blend canvas on one side and midnight-blue twill on the other.",
-    "yext/slug": "hats/[[entityId]].html"
+    "richTextDescription": "Gucci\u0027s bucket hat is reversible, so there are double the styling options. Appliquéd with the house\u0027s emblem, it\u0027s made from monogrammed cotton-blend canvas on one side and midnight-blue twill on the other.",
+    "slug": "hats/[[entityId]].html"
   },
-  "entityType": "yext/product",
+  "entityType": "product",
   "labels": []
 }

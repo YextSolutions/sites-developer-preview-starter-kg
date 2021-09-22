@@ -3,9 +3,9 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "yext/brand": "Nike",
-    "yext/name": "LeBron 18 Low \"Summer Refresh\"",
-    "yext/photoGallery": [
+    "brand": "Nike",
+    "name": "LeBron 18 Low \"Summer Refresh\"",
+    "photoGallery": [
       {
         "image": {
           "height": 1080,
@@ -36,14 +36,14 @@
         }
       }
     ],
-    "yext/price": {
+    "price": {
       "currencyCode": "USD",
       "value": "160"
     },
-    "yext/richTextDescription": "A player of LeBron’s power and agility needs a light yet strong shoe that harnesses his force but still allows him to move with precision. The LeBron 18 Low “Summer Refresh” colorway bursts onto the court with bright lime and mango hues. It’s lower and lighter than his game shoe, with Max Air plus Nike React foam providing impact cushioning and responsiveness. A padded, sculpted collar and the streamlined heel clip help secure the foot during games.",
-    "yext/sku": "CV7562-300",
-    "yext/slug": "shoes/[[entityId]].html"
+    "richTextDescription": "A player of LeBron’s power and agility needs a light yet strong shoe that harnesses his force but still allows him to move with precision. The LeBron 18 Low “Summer Refresh” colorway bursts onto the court with bright lime and mango hues. It’s lower and lighter than his game shoe, with Max Air plus Nike React foam providing impact cushioning and responsiveness. A padded, sculpted collar and the streamlined heel clip help secure the foot during games.",
+    "sku": "CV7562-300",
+    "slug": "shoes/[[entityId]].html"
   },
-  "entityType": "yext/product",
+  "entityType": "product",
   "labels": []
 }

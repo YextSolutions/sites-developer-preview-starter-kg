@@ -3,10 +3,10 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "yext/brand": "Zimmermann",
-    "yext/color": "Orange",
-    "yext/name": "Printed linen-twill bucket hat",
-    "yext/photoGallery": [
+    "brand": "Zimmermann",
+    "color": "Orange",
+    "name": "Printed linen-twill bucket hat",
+    "photoGallery": [
       {
         "image": {
           "height": 1380,
@@ -37,13 +37,13 @@
         }
       }
     ],
-    "yext/price": {
+    "price": {
       "currencyCode": "USD",
       "value": "160"
     },
-    "yext/richTextDescription": "Zimmermann\u0027s bucket hat is printed with the same palm fronds and tropical birds as the label\u0027s shirt and maxi dress - coordinating pieces are key this season, so style yours with either. It\u0027s made from linen-twill and has ventilating metal eyelets at the side.",
-    "yext/slug": "hats/[[entityId]].html"
+    "richTextDescription": "Zimmermann\u0027s bucket hat is printed with the same palm fronds and tropical birds as the label\u0027s shirt and maxi dress - coordinating pieces are key this season, so style yours with either. It\u0027s made from linen-twill and has ventilating metal eyelets at the side.",
+    "slug": "hats/[[entityId]].html"
   },
-  "entityType": "yext/product",
+  "entityType": "product",
   "labels": []
 }

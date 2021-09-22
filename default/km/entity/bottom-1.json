@@ -3,10 +3,10 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "yext/brand": "Nike",
-    "yext/color": "Chlorine Blue/Black",
-    "yext/name": "Nike Sportswear Shorts",
-    "yext/photoGallery": [
+    "brand": "Nike",
+    "color": "Chlorine Blue/Black",
+    "name": "Nike Sportswear Shorts",
+    "photoGallery": [
       {
         "image": {
           "height": 1080,
@@ -66,13 +66,13 @@
         }
       }
     ],
-    "yext/price": {
+    "price": {
       "currencyCode": "USD",
       "value": "45"
     },
-    "yext/richTextDescription": "The Nike Sportswear Shorts have a breathable mesh lining and lightweight woven fabric. The back pocket has a drainage grommet ideal for days spent in or out of the water.",
-    "yext/slug": "bottoms/[[entityId]].html"
+    "richTextDescription": "The Nike Sportswear Shorts have a breathable mesh lining and lightweight woven fabric. The back pocket has a drainage grommet ideal for days spent in or out of the water.",
+    "slug": "bottoms/[[entityId]].html"
   },
-  "entityType": "yext/product",
+  "entityType": "product",
   "labels": []
 }

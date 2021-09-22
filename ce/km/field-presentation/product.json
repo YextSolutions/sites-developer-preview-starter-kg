@@ -1,7 +1,7 @@
 {
   "$id": "ce_product",
   "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
-  "entityType": "yext/product",
+  "entityType": "product",
   "displayName": "Product",
   "presentationEntries": [
     {
@@ -177,26 +177,26 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/name",
+          "id": "name",
           "visibleOnAdd": true
         },
         {
-          "id": "yext/sku",
+          "id": "sku",
           "visibleOnAdd": true
         },
         {
-          "id": "yext/entityId",
+          "id": "entityId",
           "visibleOnAdd": true
         },
         {
-          "id": "yext/parentProduct",
+          "id": "parentProduct",
           "visibleOnAdd": true
         },
         {
           "id": "c_relatedProducts"
         },
         {
-          "id": "yext/slug"
+          "id": "slug"
         }
       ]
     },
@@ -283,29 +283,29 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/richTextDescription",
+          "id": "richTextDescription",
           "visibleOnAdd": true
         },
         {
-          "id": "yext/stockStatus"
+          "id": "stockStatus"
         },
         {
-          "id": "yext/color"
+          "id": "color"
         },
         {
-          "id": "yext/size"
+          "id": "size"
         },
         {
-          "id": "yext/brand"
+          "id": "brand"
         },
         {
-          "id": "yext/salesChannel"
+          "id": "salesChannel"
         },
         {
-          "id": "yext/gtin"
+          "id": "gtin"
         },
         {
-          "id": "yext/price"
+          "id": "price"
         }
       ]
     },
@@ -376,10 +376,10 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/photoGallery"
+          "id": "photoGallery"
         },
         {
-          "id": "yext/videos"
+          "id": "videos"
         }
       ]
     },
@@ -470,7 +470,7 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/keywords"
+          "id": "keywords"
         }
       ]
     },
@@ -537,7 +537,7 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/landingPageUrl"
+          "id": "landingPageUrl"
         }
       ]
     },
@@ -714,13 +714,13 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/folder"
+          "id": "folder"
         },
         {
-          "id": "yext/labels"
+          "id": "labels"
         },
         {
-          "id": "yext/timezone"
+          "id": "timezone"
         }
       ]
     },
@@ -837,10 +837,10 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/primaryConversationContact"
+          "id": "primaryConversationContact"
         },
         {
-          "id": "yext/nudgeEnabled"
+          "id": "nudgeEnabled"
         }
       ]
     }

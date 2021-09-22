@@ -3,10 +3,10 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "yext/brand": "Nike",
-    "yext/color": "Black/Ghost Green/Black/White",
-    "yext/name": "Jordan LS Slide",
-    "yext/photoGallery": [
+    "brand": "Nike",
+    "color": "Black/Ghost Green/Black/White",
+    "name": "Jordan LS Slide",
+    "photoGallery": [
       {
         "image": {
           "height": 1080,
@@ -37,14 +37,14 @@
         }
       }
     ],
-    "yext/price": {
+    "price": {
       "currencyCode": "USD",
       "value": "80"
     },
-    "yext/richTextDescription": "Fresh and functional, the Jordan LS Slide offers step-in comfort. It has an adjustable fold-over strap built on a Solarsoft foam footbed, plus a removable heel strap to personalize your fit. A removable stash pocket ups the utility.",
-    "yext/sku": "CZ0791-002",
-    "yext/slug": "shoes/[[entityId]].html"
+    "richTextDescription": "Fresh and functional, the Jordan LS Slide offers step-in comfort. It has an adjustable fold-over strap built on a Solarsoft foam footbed, plus a removable heel strap to personalize your fit. A removable stash pocket ups the utility.",
+    "sku": "CZ0791-002",
+    "slug": "shoes/[[entityId]].html"
   },
-  "entityType": "yext/product",
+  "entityType": "product",
   "labels": []
 }

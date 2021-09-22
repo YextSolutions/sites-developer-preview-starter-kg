@@ -3,10 +3,10 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "yext/brand": "Nike",
-    "yext/color": "Crimson/Green Apple/Volt/White",
-    "yext/name": "PG 4",
-    "yext/photoGallery": [
+    "brand": "Nike",
+    "color": "Crimson/Green Apple/Volt/White",
+    "name": "PG 4",
+    "photoGallery": [
       {
         "image": {
           "height": 1080,
@@ -37,14 +37,14 @@
         }
       }
     ],
-    "yext/price": {
+    "price": {
       "currencyCode": "USD",
       "value": "72.97"
     },
-    "yext/richTextDescription": "Paul George is the rare high-percentage shooter who\u0027s also a coach\u0027s dream on D. Designed for his unrivaled 2-way game, the PG 4 unveils a new cushioning system that\u0027s lightweight, articulated and responsive, ideal for players like PG who go hard every play.",
-    "yext/sku": "CD5079-602",
-    "yext/slug": "shoes/[[entityId]].html"
+    "richTextDescription": "Paul George is the rare high-percentage shooter who\u0027s also a coach\u0027s dream on D. Designed for his unrivaled 2-way game, the PG 4 unveils a new cushioning system that\u0027s lightweight, articulated and responsive, ideal for players like PG who go hard every play.",
+    "sku": "CD5079-602",
+    "slug": "shoes/[[entityId]].html"
   },
-  "entityType": "yext/product",
+  "entityType": "product",
   "labels": []
 }

@@ -3,10 +3,10 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "yext/brand": "Gucci",
-    "yext/color": "Brown",
-    "yext/name": "Brown GG Flora Lounge Pants",
-    "yext/photoGallery": [
+    "brand": "Gucci",
+    "color": "Brown",
+    "name": "Brown GG Flora Lounge Pants",
+    "photoGallery": [
       {
         "image": {
           "height": 1416,
@@ -66,9 +66,9 @@
         }
       }
     ],
-    "yext/richTextDescription": "Tapered technical jersey lounge pants featuring logo pattern in brown and beige and multicolor graphic print throughout. Mid\\-rise. Drawstring in off\\-white at elasticized waistband. Two\\-pocket styling. Tape trim in red and green at outseams.",
-    "yext/slug": "bottoms/[[entityId]].html"
+    "richTextDescription": "Tapered technical jersey lounge pants featuring logo pattern in brown and beige and multicolor graphic print throughout. Mid\\-rise. Drawstring in off\\-white at elasticized waistband. Two\\-pocket styling. Tape trim in red and green at outseams.",
+    "slug": "bottoms/[[entityId]].html"
   },
-  "entityType": "yext/product",
+  "entityType": "product",
   "labels": []
 }

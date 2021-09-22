@@ -3,10 +3,10 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "yext/brand": "MAISON KITSUNÉ",
-    "yext/color": "Cream",
-    "yext/name": "Logo-Embroidered Cotton Baseball Cap",
-    "yext/photoGallery": [
+    "brand": "MAISON KITSUNÉ",
+    "color": "Cream",
+    "name": "Logo-Embroidered Cotton Baseball Cap",
+    "photoGallery": [
       {
         "image": {
           "height": 1820,
@@ -61,13 +61,13 @@
         }
       }
     ],
-    "yext/price": {
+    "price": {
       "currencyCode": "USD",
       "value": "125"
     },
-    "yext/richTextDescription": "Maison Kitsuné\u0027s fox mascot is recognised as a symbol of versatility in Japan, which couldn\u0027t be more fitting to its rainbow iteration on this baseball cap in honour of Pride month. It\u0027s constructed from cotton and embroidered with breathable eyelets.",
-    "yext/slug": "hats/[[entityId]].html"
+    "richTextDescription": "Maison Kitsuné\u0027s fox mascot is recognised as a symbol of versatility in Japan, which couldn\u0027t be more fitting to its rainbow iteration on this baseball cap in honour of Pride month. It\u0027s constructed from cotton and embroidered with breathable eyelets.",
+    "slug": "hats/[[entityId]].html"
   },
-  "entityType": "yext/product",
+  "entityType": "product",
   "labels": []
 }

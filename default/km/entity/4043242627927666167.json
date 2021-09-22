@@ -3,11 +3,11 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "yext/answer": "To initiate a return, please submit a request for a Return Authorization (RA) through your YFW account. Alternatively, you can contact our [Customer Care](https://www.google.com) team to assist you with the return process. YFW adheres to a strict no\\-paper policy, so as to reduce waste. This is why shipments do not include a return slip inside the box.",
-    "yext/name": "How do I return or exchange an item?",
-    "yext/question": "How do I return or exchange an item?"
+    "answer": "To initiate a return, please submit a request for a Return Authorization (RA) through your YFW account. Alternatively, you can contact our [Customer Care](https://www.google.com) team to assist you with the return process. YFW adheres to a strict no\\-paper policy, so as to reduce waste. This is why shipments do not include a return slip inside the box.",
+    "name": "How do I return or exchange an item?",
+    "question": "How do I return or exchange an item?"
   },
-  "entityType": "yext/faq",
+  "entityType": "faq",
   "folder": "yext/root",
   "labels": []
 }

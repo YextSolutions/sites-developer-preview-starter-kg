@@ -3,10 +3,10 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "yext/brand": "Loewe",
-    "yext/color": "Multi",
-    "yext/name": "Paula\u0027s Ibiza Printed Waffle-Knit Cotton T-Shirt",
-    "yext/photoGallery": [
+    "brand": "Loewe",
+    "color": "Multi",
+    "name": "Paula\u0027s Ibiza Printed Waffle-Knit Cotton T-Shirt",
+    "photoGallery": [
       {
         "image": {
           "height": 1820,
@@ -71,13 +71,13 @@
         }
       }
     ],
-    "yext/price": {
+    "price": {
       "currencyCode": "USD",
       "value": "650"
     },
-    "yext/richTextDescription": "Part of the collaboration between Loewe and Paula\u0027s boutique, this T-shirt calls to mind Ibiza\u0027s famed vibrant island lifestyle, from sunrise to sunset. It\u0027s cut from waffle-knit cotton.",
-    "yext/slug": "tops/[[entityId]].html"
+    "richTextDescription": "Part of the collaboration between Loewe and Paula\u0027s boutique, this T-shirt calls to mind Ibiza\u0027s famed vibrant island lifestyle, from sunrise to sunset. It\u0027s cut from waffle-knit cotton.",
+    "slug": "tops/[[entityId]].html"
   },
-  "entityType": "yext/product",
+  "entityType": "product",
   "labels": []
 }

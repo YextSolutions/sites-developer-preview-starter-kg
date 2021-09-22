@@ -3,10 +3,10 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "yext/brand": "Eres",
-    "yext/color": "Black",
-    "yext/name": "Jones grosgrain-trimmed paper fedora",
-    "yext/photoGallery": [
+    "brand": "Eres",
+    "color": "Black",
+    "name": "Jones grosgrain-trimmed paper fedora",
+    "photoGallery": [
       {
         "image": {
           "height": 1380,
@@ -71,13 +71,13 @@
         }
       }
     ],
-    "yext/price": {
+    "price": {
       "currencyCode": "USD",
       "value": "165"
     },
-    "yext/richTextDescription": "You can always depend on Eres\u0027 collections to be filled with pieces perfect for sun-soaked getaways, and this lightweight \u0027Jones\u0027 fedora is no exception. It\u0027s been woven in Italy from paper in an intricate, geometric motif and trimmed with grosgrain. The black and white colorway ensures it\u0027ll go with any of the label\u0027s swimwear.",
-    "yext/slug": "hats/[[entityId]].html"
+    "richTextDescription": "You can always depend on Eres\u0027 collections to be filled with pieces perfect for sun-soaked getaways, and this lightweight \u0027Jones\u0027 fedora is no exception. It\u0027s been woven in Italy from paper in an intricate, geometric motif and trimmed with grosgrain. The black and white colorway ensures it\u0027ll go with any of the label\u0027s swimwear.",
+    "slug": "hats/[[entityId]].html"
   },
-  "entityType": "yext/product",
+  "entityType": "product",
   "labels": []
 }

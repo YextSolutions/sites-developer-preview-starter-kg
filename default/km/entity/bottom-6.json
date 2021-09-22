@@ -3,10 +3,10 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "yext/brand": "Gucci",
-    "yext/color": "Gray",
-    "yext/name": "Wide-Leg Pleated Wool-Flannel Shorts",
-    "yext/photoGallery": [
+    "brand": "Gucci",
+    "color": "Gray",
+    "name": "Wide-Leg Pleated Wool-Flannel Shorts",
+    "photoGallery": [
       {
         "image": {
           "height": 1820,
@@ -71,13 +71,13 @@
         }
       }
     ],
-    "yext/price": {
+    "price": {
       "currencyCode": "USD",
       "value": "950"
     },
-    "yext/richTextDescription": "Gucci\u0027s AW20 collection is inspired by Mr Alessandro Michele’s childhood and includes tailored shorts that take their cue from school uniforms - at the show they were styled with shrunken blazers and knee-high socks. This pair is tailored from grey wool-flannel and pleated at the waistband to enhance the wide-leg shape. Use the side adjusters to personalise the fit.",
-    "yext/slug": "bottoms/[[entityId]].html"
+    "richTextDescription": "Gucci\u0027s AW20 collection is inspired by Mr Alessandro Michele’s childhood and includes tailored shorts that take their cue from school uniforms - at the show they were styled with shrunken blazers and knee-high socks. This pair is tailored from grey wool-flannel and pleated at the waistband to enhance the wide-leg shape. Use the side adjusters to personalise the fit.",
+    "slug": "bottoms/[[entityId]].html"
   },
-  "entityType": "yext/product",
+  "entityType": "product",
   "labels": []
 }

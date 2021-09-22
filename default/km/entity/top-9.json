@@ -3,10 +3,10 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "yext/brand": "Nike",
-    "yext/color": "White",
-    "yext/name": "Kevin Durant Nets Association Edition 2020",
-    "yext/photoGallery": [
+    "brand": "Nike",
+    "color": "White",
+    "name": "Kevin Durant Nets Association Edition 2020",
+    "photoGallery": [
       {
         "image": {
           "height": 2160,
@@ -42,14 +42,14 @@
         }
       }
     ],
-    "yext/price": {
+    "price": {
       "currencyCode": "USD",
       "value": "200"
     },
-    "yext/richTextDescription": "The Association Edition jersey is the common thread that weaves through every team in the league. The Authentic Nike NBA Association Edition Jersey of the Brooklyn Nets is designed to be lightweight and breathable. It\u0027s got a fit that helps players move freely on the basketball court.",
-    "yext/sku": "2983570",
-    "yext/slug": "tops/[[entityId]].html"
+    "richTextDescription": "The Association Edition jersey is the common thread that weaves through every team in the league. The Authentic Nike NBA Association Edition Jersey of the Brooklyn Nets is designed to be lightweight and breathable. It\u0027s got a fit that helps players move freely on the basketball court.",
+    "sku": "2983570",
+    "slug": "tops/[[entityId]].html"
   },
-  "entityType": "yext/product",
+  "entityType": "product",
   "labels": []
 }

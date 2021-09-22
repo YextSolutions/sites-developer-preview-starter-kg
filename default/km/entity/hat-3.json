@@ -3,10 +3,10 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "yext/brand": "Balenciaga",
-    "yext/color": "Black",
-    "yext/name": "Sony Logo-Embroidered Cotton-Twill Baseball Cap",
-    "yext/photoGallery": [
+    "brand": "Balenciaga",
+    "color": "Black",
+    "name": "Sony Logo-Embroidered Cotton-Twill Baseball Cap",
+    "photoGallery": [
       {
         "image": {
           "height": 1820,
@@ -61,13 +61,13 @@
         }
       }
     ],
-    "yext/price": {
+    "price": {
       "currencyCode": "USD",
       "value": "495"
     },
-    "yext/richTextDescription": "Designed in collaboration with Sony, Balenciaga\u0027s baseball cap is embroidered with PS5 branding - after breaking a 24-year console sales record, the tech gadget is nearly as covetable as the house\u0027s cult accessories. It\u0027s made from cotton-twill and embroidered with aerating eyelets.",
-    "yext/slug": "hats/[[entityId]].html"
+    "richTextDescription": "Designed in collaboration with Sony, Balenciaga\u0027s baseball cap is embroidered with PS5 branding - after breaking a 24-year console sales record, the tech gadget is nearly as covetable as the house\u0027s cult accessories. It\u0027s made from cotton-twill and embroidered with aerating eyelets.",
+    "slug": "hats/[[entityId]].html"
   },
-  "entityType": "yext/product",
+  "entityType": "product",
   "labels": []
 }

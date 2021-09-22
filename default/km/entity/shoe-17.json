@@ -3,10 +3,10 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "yext/brand": "Bottega Veneta",
-    "yext/color": "Pink",
-    "yext/name": "Pink Rubber Sandals",
-    "yext/photoGallery": [
+    "brand": "Bottega Veneta",
+    "color": "Pink",
+    "name": "Pink Rubber Sandals",
+    "photoGallery": [
       {
         "image": {
           "height": 1820,
@@ -61,13 +61,13 @@
         }
       }
     ],
-    "yext/price": {
+    "price": {
       "currencyCode": "USD",
       "value": "510"
     },
-    "yext/richTextDescription": "When comfort is your concern, Bottega Veneta\u0027s sandals offer ease and support. They\u0027ve been made in Italy from smooth rubber and set on serrated soles for traction. The thick straps ensure a secure fit.",
-    "yext/slug": "shoes/[[entityId]].html"
+    "richTextDescription": "When comfort is your concern, Bottega Veneta\u0027s sandals offer ease and support. They\u0027ve been made in Italy from smooth rubber and set on serrated soles for traction. The thick straps ensure a secure fit.",
+    "slug": "shoes/[[entityId]].html"
   },
-  "entityType": "yext/product",
+  "entityType": "product",
   "labels": []
 }

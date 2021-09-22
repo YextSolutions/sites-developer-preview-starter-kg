@@ -3,10 +3,10 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "yext/brand": "Nike",
-    "yext/color": "Royal Pulse/University Red/University Red",
-    "yext/name": "FEDERACION DE FUTBOL DE CHILE Jersey",
-    "yext/photoGallery": [
+    "brand": "Nike",
+    "color": "Royal Pulse/University Red/University Red",
+    "name": "FEDERACION DE FUTBOL DE CHILE Jersey",
+    "photoGallery": [
       {
         "image": {
           "height": 2160,
@@ -42,14 +42,14 @@
         }
       }
     ],
-    "yext/price": {
+    "price": {
       "currencyCode": "USD",
       "value": "65"
     },
-    "yext/richTextDescription": "The Chile Top is a high-stretch design built to wear ahead of kickoff. It\u0027s made of sweat-wicking fabric to help keep you comfortable on the pitch.",
-    "yext/sku": "CD2575-478",
-    "yext/slug": "tops/[[entityId]].html"
+    "richTextDescription": "The Chile Top is a high-stretch design built to wear ahead of kickoff. It\u0027s made of sweat-wicking fabric to help keep you comfortable on the pitch.",
+    "sku": "CD2575-478",
+    "slug": "tops/[[entityId]].html"
   },
-  "entityType": "yext/product",
+  "entityType": "product",
   "labels": []
 }

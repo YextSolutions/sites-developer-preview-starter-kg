@@ -3,10 +3,10 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "yext/brand": "Gucci",
-    "yext/color": "Green",
-    "yext/name": "Ken Scott Wide-Leg Floral-Print Silk-Crepe Shorts",
-    "yext/photoGallery": [
+    "brand": "Gucci",
+    "color": "Green",
+    "name": "Ken Scott Wide-Leg Floral-Print Silk-Crepe Shorts",
+    "photoGallery": [
       {
         "image": {
           "height": 1820,
@@ -61,13 +61,13 @@
         }
       }
     ],
-    "yext/price": {
+    "price": {
       "currencyCode": "USD",
       "value": "980"
     },
-    "yext/richTextDescription": "Nicknamed \u0027The Fashion Gardener\u0027 for his vibrant botanical prints, Mr Ken Scott helped develop the floral motifs we now so readily associate with the \u002760s and \u002770s. Gucci\u0027s silk-crepe shorts showcase oversized daisies from the American designer\u0027s archive and are appliquéd with an emblem on the back.",
-    "yext/slug": "bottoms/[[entityId]].html"
+    "richTextDescription": "Nicknamed \u0027The Fashion Gardener\u0027 for his vibrant botanical prints, Mr Ken Scott helped develop the floral motifs we now so readily associate with the \u002760s and \u002770s. Gucci\u0027s silk-crepe shorts showcase oversized daisies from the American designer\u0027s archive and are appliquéd with an emblem on the back.",
+    "slug": "bottoms/[[entityId]].html"
   },
-  "entityType": "yext/product",
+  "entityType": "product",
   "labels": []
 }

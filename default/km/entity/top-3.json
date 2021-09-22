@@ -3,10 +3,10 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "yext/brand": "Gucci",
-    "yext/color": "Multi",
-    "yext/name": "Disney Appliquéd Striped Perforated Cotton T-Shirt",
-    "yext/photoGallery": [
+    "brand": "Gucci",
+    "color": "Multi",
+    "name": "Disney Appliquéd Striped Perforated Cotton T-Shirt",
+    "photoGallery": [
       {
         "image": {
           "height": 1820,
@@ -61,13 +61,13 @@
         }
       }
     ],
-    "yext/price": {
+    "price": {
       "currencyCode": "USD",
       "value": "630"
     },
-    "yext/richTextDescription": "Gucci\u0027s partnership with Disney continues apace this season with this T-shirt. Cut from striped perforated cotton, it will look great solo or layered under an overshirt. Take cues from the cheery Donald Duck appliqué by wearing it with something blue, preferably ignoring his laissez-faire attitude to trousers.",
-    "yext/slug": "tops/[[entityId]].html"
+    "richTextDescription": "Gucci\u0027s partnership with Disney continues apace this season with this T-shirt. Cut from striped perforated cotton, it will look great solo or layered under an overshirt. Take cues from the cheery Donald Duck appliqué by wearing it with something blue, preferably ignoring his laissez-faire attitude to trousers.",
+    "slug": "tops/[[entityId]].html"
   },
-  "entityType": "yext/product",
+  "entityType": "product",
   "labels": []
 }

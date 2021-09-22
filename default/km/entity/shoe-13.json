@@ -3,10 +3,10 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "yext/brand": "Crocs",
-    "yext/color": "Fast Red",
-    "yext/name": "Lightning McQueen Limited Edition Crocs",
-    "yext/photoGallery": [
+    "brand": "Crocs",
+    "color": "Fast Red",
+    "name": "Lightning McQueen Limited Edition Crocs",
+    "photoGallery": [
       {
         "image": {
           "height": 437,
@@ -37,14 +37,14 @@
         }
       }
     ],
-    "yext/price": {
+    "price": {
       "currencyCode": "USD",
       "value": "15000"
     },
-    "yext/richTextDescription": "Original. Versatile. Comfortable.  \nIt\u0027s the iconic clog that started a comfort revolution around the world! The irreverent go\\-to comfort shoe that you\u0027re sure to fall deeper in love with day after day. There are only 10 pairs of the Lightning McQueen series world\\-wide due to his speed.",
-    "yext/sku": "12345678910",
-    "yext/slug": "shoes/[[entityId]].html"
+    "richTextDescription": "Original. Versatile. Comfortable.  \nIt\u0027s the iconic clog that started a comfort revolution around the world! The irreverent go\\-to comfort shoe that you\u0027re sure to fall deeper in love with day after day. There are only 10 pairs of the Lightning McQueen series world\\-wide due to his speed.",
+    "sku": "12345678910",
+    "slug": "shoes/[[entityId]].html"
   },
-  "entityType": "yext/product",
+  "entityType": "product",
   "labels": []
 }

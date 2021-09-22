@@ -3,10 +3,10 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "yext/brand": "Nike",
-    "yext/color": "Hasta/Hyper Royal",
-    "yext/name": "Giannis Antetokounmpo Select Series",
-    "yext/photoGallery": [
+    "brand": "Nike",
+    "color": "Hasta/Hyper Royal",
+    "name": "Giannis Antetokounmpo Select Series",
+    "photoGallery": [
       {
         "image": {
           "height": 2160,
@@ -42,14 +42,14 @@
         }
       }
     ],
-    "yext/price": {
+    "price": {
       "currencyCode": "USD",
       "value": "160"
     },
-    "yext/richTextDescription": "The Select Series from Nike and the NBA celebrates the MVPs and Rookies of the Year from 2011-2020. The design is inspired by the \u002790s golden era of basketball, from Nike apparel patterns and posters to T-shirt graphics. This product is made with 100% recycled polyester fibers.",
-    "yext/sku": "8914879",
-    "yext/slug": "tops/[[entityId]].html"
+    "richTextDescription": "The Select Series from Nike and the NBA celebrates the MVPs and Rookies of the Year from 2011-2020. The design is inspired by the \u002790s golden era of basketball, from Nike apparel patterns and posters to T-shirt graphics. This product is made with 100% recycled polyester fibers.",
+    "sku": "8914879",
+    "slug": "tops/[[entityId]].html"
   },
-  "entityType": "yext/product",
+  "entityType": "product",
   "labels": []
 }

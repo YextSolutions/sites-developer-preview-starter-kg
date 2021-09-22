@@ -13,21 +13,21 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/name",
+          "id": "name",
           "visibleOnAdd": true
         },
         {
-          "id": "yext/entityId",
+          "id": "entityId",
           "visibleOnAdd": true
         },
         {
-          "id": "yext/richTextDescription"
+          "id": "richTextDescription"
         },
         {
           "id": "c_relatedProducts"
         },
         {
-          "id": "yext/slug"
+          "id": "slug"
         }
       ]
     },
@@ -40,10 +40,10 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/folder"
+          "id": "folder"
         },
         {
-          "id": "yext/labels"
+          "id": "labels"
         }
       ]
     }

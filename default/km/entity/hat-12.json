@@ -3,10 +3,10 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "yext/brand": "Gabriela Hearst",
-    "yext/color": "Blue",
-    "yext/name": "Tie-dyed cashmere and silk-blend bucket hat",
-    "yext/photoGallery": [
+    "brand": "Gabriela Hearst",
+    "color": "Blue",
+    "name": "Tie-dyed cashmere and silk-blend bucket hat",
+    "photoGallery": [
       {
         "image": {
           "height": 1380,
@@ -66,13 +66,13 @@
         }
       }
     ],
-    "yext/price": {
+    "price": {
       "currencyCode": "USD",
       "value": "320"
     },
-    "yext/richTextDescription": "Gabriela Hearst\u0027s bucket hat is tie-dyed in rainbow swirls, really accentuating the \u002790s-inspired retro vibe. It\u0027s made from cashmere and silk-blend and fully lined to prevent frizz and flyaways.",
-    "yext/slug": "hats/[[entityId]].html"
+    "richTextDescription": "Gabriela Hearst\u0027s bucket hat is tie-dyed in rainbow swirls, really accentuating the \u002790s-inspired retro vibe. It\u0027s made from cashmere and silk-blend and fully lined to prevent frizz and flyaways.",
+    "slug": "hats/[[entityId]].html"
   },
-  "entityType": "yext/product",
+  "entityType": "product",
   "labels": []
 }

@@ -3,10 +3,10 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "yext/brand": "Nike",
-    "yext/color": "White/Loyal Blue",
-    "yext/name": "U.S. 2020 Vapor Match Home",
-    "yext/photoGallery": [
+    "brand": "Nike",
+    "color": "White/Loyal Blue",
+    "name": "U.S. 2020 Vapor Match Home",
+    "photoGallery": [
       {
         "image": {
           "height": 2160,
@@ -42,14 +42,14 @@
         }
       }
     ],
-    "yext/price": {
+    "price": {
       "currencyCode": "USD",
       "value": "165"
     },
-    "yext/richTextDescription": "The U.S. Vapor Match Home Jersey is the same design worn by the pros on the field. It combines breathability and mobility with stretchy fabric that wicks sweat and dries exceptionally fast for peak performance.",
-    "yext/sku": "CD0592-100",
-    "yext/slug": "tops/[[entityId]].html"
+    "richTextDescription": "The U.S. Vapor Match Home Jersey is the same design worn by the pros on the field. It combines breathability and mobility with stretchy fabric that wicks sweat and dries exceptionally fast for peak performance.",
+    "sku": "CD0592-100",
+    "slug": "tops/[[entityId]].html"
   },
-  "entityType": "yext/product",
+  "entityType": "product",
   "labels": []
 }

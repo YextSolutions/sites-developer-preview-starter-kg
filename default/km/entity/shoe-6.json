@@ -3,10 +3,10 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "yext/brand": "Nike",
-    "yext/color": "Sail/Black/Team Orange",
-    "yext/name": "Kyrie Low 3",
-    "yext/photoGallery": [
+    "brand": "Nike",
+    "color": "Sail/Black/Team Orange",
+    "name": "Kyrie Low 3",
+    "photoGallery": [
       {
         "image": {
           "height": 1080,
@@ -37,14 +37,14 @@
         }
       }
     ],
-    "yext/price": {
+    "price": {
       "currencyCode": "USD",
       "value": "99.97"
     },
-    "yext/richTextDescription": "Kyrie Irving\u0027s ability to stop, go and cut while handling the ball is unrivaled. The Kyrie Low 3 enables agility and traction in multiple directions while helping keep quick-cutting players locked in over the cushioning. Its low-cut design has aggressive rubber tread that wraps up the sides and a secure midfoot strap for a secure on-court feel.",
-    "yext/sku": "CJ1286-101",
-    "yext/slug": "shoes/[[entityId]].html"
+    "richTextDescription": "Kyrie Irving\u0027s ability to stop, go and cut while handling the ball is unrivaled. The Kyrie Low 3 enables agility and traction in multiple directions while helping keep quick-cutting players locked in over the cushioning. Its low-cut design has aggressive rubber tread that wraps up the sides and a secure midfoot strap for a secure on-court feel.",
+    "sku": "CJ1286-101",
+    "slug": "shoes/[[entityId]].html"
   },
-  "entityType": "yext/product",
+  "entityType": "product",
   "labels": []
 }

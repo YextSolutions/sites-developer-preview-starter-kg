@@ -26,9 +26,9 @@
       "top-20",
       "top-21"
     ],
-    "yext/name": "Tops",
-    "yext/richTextDescription": "Style doesn\u0027t get any simpler than this. Choose from a selection of the very best T\\-shirts, from plain tees with a focus on fit and fabric to the latest new\\-season designer printed tees.",
-    "yext/slug": "[[entityId]].html"
+    "name": "Tops",
+    "richTextDescription": "Style doesn\u0027t get any simpler than this. Choose from a selection of the very best T\\-shirts, from plain tees with a focus on fit and fabric to the latest new\\-season designer printed tees.",
+    "slug": "[[entityId]].html"
   },
   "entityType": "ce_productCategory",
   "labels": []

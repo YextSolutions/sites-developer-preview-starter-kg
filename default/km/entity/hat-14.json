@@ -3,10 +3,10 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "yext/brand": "Interstellar Propeller",
-    "yext/color": "Rainbow",
-    "yext/name": "Adult Propeller Baseball Cap",
-    "yext/photoGallery": [
+    "brand": "Interstellar Propeller",
+    "color": "Rainbow",
+    "name": "Adult Propeller Baseball Cap",
+    "photoGallery": [
       {
         "image": {
           "height": 588,
@@ -61,13 +61,13 @@
         }
       }
     ],
-    "yext/price": {
+    "price": {
       "currencyCode": "USD",
       "value": "16.50"
     },
-    "yext/richTextDescription": "Multi\\-colored Adult Propeller Hat. The rainbow propeller top hat is made of polyester, soft and comfortable. A great comical novelty item. Plastic Propeller attached on top of Hat. Attention grabbing colorful panels, fun for party, parades, costume events, and casual use.",
-    "yext/slug": "hats/[[entityId]].html"
+    "richTextDescription": "Multi\\-colored Adult Propeller Hat. The rainbow propeller top hat is made of polyester, soft and comfortable. A great comical novelty item. Plastic Propeller attached on top of Hat. Attention grabbing colorful panels, fun for party, parades, costume events, and casual use.",
+    "slug": "hats/[[entityId]].html"
   },
-  "entityType": "yext/product",
+  "entityType": "product",
   "labels": []
 }

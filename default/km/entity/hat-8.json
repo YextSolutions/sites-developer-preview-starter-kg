@@ -3,10 +3,10 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "yext/brand": "Maison Michel",
-    "yext/color": "Cream",
-    "yext/name": "Virginie grosgrain-trimmed wool-felt fedora",
-    "yext/photoGallery": [
+    "brand": "Maison Michel",
+    "color": "Cream",
+    "name": "Virginie grosgrain-trimmed wool-felt fedora",
+    "photoGallery": [
       {
         "image": {
           "height": 1380,
@@ -66,13 +66,13 @@
         }
       }
     ],
-    "yext/price": {
+    "price": {
       "currencyCode": "USD",
       "value": "690"
     },
-    "yext/richTextDescription": "With over 4000 styles in its archives, Maison Michel\u0027s \u0027Virginie\u0027 fedora is one of the most recognizable - the asymmetrically sculpted crown is designed to fit and suit every head shape. Crafted by artisans in the brand\u0027s Spanish workshop, it\u0027s made from soft cream wool-felt and framed by a tonal grosgrain ribbon and wide, structured brim.",
-    "yext/slug": "hats/[[entityId]].html"
+    "richTextDescription": "With over 4000 styles in its archives, Maison Michel\u0027s \u0027Virginie\u0027 fedora is one of the most recognizable - the asymmetrically sculpted crown is designed to fit and suit every head shape. Crafted by artisans in the brand\u0027s Spanish workshop, it\u0027s made from soft cream wool-felt and framed by a tonal grosgrain ribbon and wide, structured brim.",
+    "slug": "hats/[[entityId]].html"
   },
-  "entityType": "yext/product",
+  "entityType": "product",
   "labels": []
 }

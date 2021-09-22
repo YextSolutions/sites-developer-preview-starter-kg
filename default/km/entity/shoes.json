@@ -21,9 +21,9 @@
       "shoe-17",
       "shoe-18"
     ],
-    "yext/name": "Shoes",
-    "yext/richTextDescription": "Build your look from the ground up with the best selection of shoes and boots, including our spring and summer edit of loafers, sandals, espadrilles and slides. Sneakerhead? You\u0027ve come to the right place \\- you\u0027ll find the latest sneaker releases from the likes of Nike, Gucci, and Balenciaga here.",
-    "yext/slug": "[[entityId]].html"
+    "name": "Shoes",
+    "richTextDescription": "Build your look from the ground up with the best selection of shoes and boots, including our spring and summer edit of loafers, sandals, espadrilles and slides. Sneakerhead? You\u0027ve come to the right place \\- you\u0027ll find the latest sneaker releases from the likes of Nike, Gucci, and Balenciaga here.",
+    "slug": "[[entityId]].html"
   },
   "entityType": "ce_productCategory",
   "labels": []

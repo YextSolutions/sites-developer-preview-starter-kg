@@ -3,10 +3,10 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "yext/brand": "Artesano",
-    "yext/color": "Camel",
-    "yext/name": "Santarem bead-embellished straw Panama hat",
-    "yext/photoGallery": [
+    "brand": "Artesano",
+    "color": "Camel",
+    "name": "Santarem bead-embellished straw Panama hat",
+    "photoGallery": [
       {
         "image": {
           "height": 1380,
@@ -66,13 +66,13 @@
         }
       }
     ],
-    "yext/price": {
+    "price": {
       "currencyCode": "USD",
       "value": "260"
     },
-    "yext/richTextDescription": "Artesano\u0027s hats are made from Toquilla straw that\u0027s carefully hand-cut and sourced from the leaves of a Carludovica Palmata plant, so it can take up to four months to finish just one. This \u0027Santarem\u0027 style has a wide, structured brim and is decorated with the label\u0027s signature tagua beads.",
-    "yext/slug": "hats/[[entityId]].html"
+    "richTextDescription": "Artesano\u0027s hats are made from Toquilla straw that\u0027s carefully hand-cut and sourced from the leaves of a Carludovica Palmata plant, so it can take up to four months to finish just one. This \u0027Santarem\u0027 style has a wide, structured brim and is decorated with the label\u0027s signature tagua beads.",
+    "slug": "hats/[[entityId]].html"
   },
-  "entityType": "yext/product",
+  "entityType": "product",
   "labels": []
 }

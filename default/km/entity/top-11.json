@@ -3,10 +3,10 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "yext/brand": "Nike",
-    "yext/color": "Amarillo",
-    "yext/name": "Brooklyn Nets Biggie",
-    "yext/photoGallery": [
+    "brand": "Nike",
+    "color": "Amarillo",
+    "name": "Brooklyn Nets Biggie",
+    "photoGallery": [
       {
         "image": {
           "height": 2160,
@@ -42,14 +42,14 @@
         }
       }
     ],
-    "yext/price": {
+    "price": {
       "currencyCode": "USD",
       "value": "175"
     },
-    "yext/richTextDescription": "The Brooklyn Nets Nike NBA Swingman Jersey is inspired by what the pros wear. The jersey uses a vibrant mix of colors and trims on top of premium double-knit fabric. It\u0027s got a classic jersey construction and a fit that looks good from all angles. This product is made with at least 50% recycled polyester.",
-    "yext/sku": "6340087",
-    "yext/slug": "tops/[[entityId]].html"
+    "richTextDescription": "The Brooklyn Nets Nike NBA Swingman Jersey is inspired by what the pros wear. The jersey uses a vibrant mix of colors and trims on top of premium double-knit fabric. It\u0027s got a classic jersey construction and a fit that looks good from all angles. This product is made with at least 50% recycled polyester.",
+    "sku": "6340087",
+    "slug": "tops/[[entityId]].html"
   },
-  "entityType": "yext/product",
+  "entityType": "product",
   "labels": []
 }

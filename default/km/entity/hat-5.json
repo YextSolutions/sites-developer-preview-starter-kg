@@ -3,10 +3,10 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "yext/brand": "Brunello Cucinelli",
-    "yext/color": "Green",
-    "yext/name": "Leather-Trimmed Herringbone Wool and Cashmere-Blend Tweed Flat Cap",
-    "yext/photoGallery": [
+    "brand": "Brunello Cucinelli",
+    "color": "Green",
+    "name": "Leather-Trimmed Herringbone Wool and Cashmere-Blend Tweed Flat Cap",
+    "photoGallery": [
       {
         "image": {
           "height": 1820,
@@ -37,13 +37,13 @@
         }
       }
     ],
-    "yext/price": {
+    "price": {
       "currencyCode": "USD",
       "value": "645"
     },
-    "yext/richTextDescription": "Brunello Cucinelli\u0027s flat cap has been made in Italy from wool and cashmere-blend tweed that\u0027ll keep you warm in cooler weather. It\u0027s fully lined in cotton and trimmed with a leather back tab to perfect the fit.",
-    "yext/slug": "hats/[[entityId]].html"
+    "richTextDescription": "Brunello Cucinelli\u0027s flat cap has been made in Italy from wool and cashmere-blend tweed that\u0027ll keep you warm in cooler weather. It\u0027s fully lined in cotton and trimmed with a leather back tab to perfect the fit.",
+    "slug": "hats/[[entityId]].html"
   },
-  "entityType": "yext/product",
+  "entityType": "product",
   "labels": []
 }

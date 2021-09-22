@@ -20,9 +20,9 @@
       "hat-14",
       "hat-15"
     ],
-    "yext/name": "Hats",
-    "yext/richTextDescription": "A hat says a great deal about your personal sense of style. Are you a trilby or fedora kind of person? Is a flat cap or a Panama more your style? Explore our collection of designer hats and caps, including everything from Balenciaga beanies to bucket hats from Polo Ralph Lauren.",
-    "yext/slug": "[[entityId]].html"
+    "name": "Hats",
+    "richTextDescription": "A hat says a great deal about your personal sense of style. Are you a trilby or fedora kind of person? Is a flat cap or a Panama more your style? Explore our collection of designer hats and caps, including everything from Balenciaga beanies to bucket hats from Polo Ralph Lauren.",
+    "slug": "[[entityId]].html"
   },
   "entityType": "ce_productCategory",
   "labels": []

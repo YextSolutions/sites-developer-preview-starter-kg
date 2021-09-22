@@ -3,10 +3,10 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "yext/brand": "Nike",
-    "yext/color": "Clear/Light Bone/Varsity Red/Medium Grey",
-    "yext/name": "Jordan Delta Breathe",
-    "yext/photoGallery": [
+    "brand": "Nike",
+    "color": "Clear/Light Bone/Varsity Red/Medium Grey",
+    "name": "Jordan Delta Breathe",
+    "photoGallery": [
       {
         "image": {
           "height": 2160,
@@ -42,14 +42,14 @@
         }
       }
     ],
-    "yext/price": {
+    "price": {
       "currencyCode": "USD",
       "value": "117.97"
     },
-    "yext/richTextDescription": "Inspired by high-tech functionality and handmade craftsmanship, the Jordan Delta Breathe combines natural and synthetic materials. The result is a lifestyle shoe that\u0027s lightweight, breathable and comfortable all day. The layered mix of diverse elements creates a distinct look and feel with subtle nods to Jordan DNA. Nike React foam offers responsive cushioning on the move.",
-    "yext/sku": "CW0783-901",
-    "yext/slug": "shoes/[[entityId]].html"
+    "richTextDescription": "Inspired by high-tech functionality and handmade craftsmanship, the Jordan Delta Breathe combines natural and synthetic materials. The result is a lifestyle shoe that\u0027s lightweight, breathable and comfortable all day. The layered mix of diverse elements creates a distinct look and feel with subtle nods to Jordan DNA. Nike React foam offers responsive cushioning on the move.",
+    "sku": "CW0783-901",
+    "slug": "shoes/[[entityId]].html"
   },
-  "entityType": "yext/product",
+  "entityType": "product",
   "labels": []
 }

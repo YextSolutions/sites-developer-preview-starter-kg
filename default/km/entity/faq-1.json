@@ -1,0 +1,13 @@
+{
+  "$id": "faq-1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "Modifying or cancelling an order is possible so long as the merchandise has not yet entered the packaging or shipment phases.  \nIf you have an YFW account, to modify or cancel your order:\n\n\n\n\n* Log in to your YFW account\n* Click on the Order History tab on the left\\-hand side\n* Under Modify, select the subject of your request\n* Fill out the contact form and send us your request\n\n\n\n\nPlease contact our [Customer Care team](https://www.ssense.com/en-us/customer-service/contact-us) if you do not have an YFW account and would like to make changes to an existing order. Our 24/7 Customer Care team will help facilitate any changes before the order enters the shipping queue.",
+    "name": "Can I cancel or modify my order?",
+    "question": "Can I cancel or modify my order?",
+    "slug": "[[entityId]]"
+  },
+  "entityType": "faq",
+  "labels": []
+}

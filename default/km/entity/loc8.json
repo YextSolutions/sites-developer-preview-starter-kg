@@ -3,10 +3,6 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_relatedFAQs": [
-      "4043242627927666167",
-      "3586901695238214924"
-    ],
     "address": {
       "city": "San Francisco",
       "countryCode": "US",
@@ -94,30 +90,65 @@
       {
         "image": {
           "height": 817,
-          "sourceUrl": "https://mma.prnewswire.com/media/1499467/FinancialTimes_FastestGrowing_Yext__Inc.jpg?p\u003dfacebook",
+          "sourceUrl": "https://a.mktgcdn.com/p/NIb_6lhCZy78Vx19Hxx9zzA4pre4_f3eZLuTFXiqljQ/1560x817.jpg",
           "thumbnails": [
             {
               "height": 817,
-              "url": "https://a.mktgcdn.com/p/NIb_6lhCZy78Vx19Hxx9zzA4pre4_f3eZLuTFXiqljQ/1560x817.jpg",
+              "url": "http://a.mktgcdn.com/p-sandbox/YHdlUGQlu-sdj3GNMGKqv92qcHod4l9J5BtjA7GOhlo/1560x817.jpg",
               "width": 1560
+            },
+            {
+              "height": 324,
+              "url": "http://a.mktgcdn.com/p-sandbox/YHdlUGQlu-sdj3GNMGKqv92qcHod4l9J5BtjA7GOhlo/619x324.jpg",
+              "width": 619
+            },
+            {
+              "height": 314,
+              "url": "http://a.mktgcdn.com/p-sandbox/YHdlUGQlu-sdj3GNMGKqv92qcHod4l9J5BtjA7GOhlo/600x314.jpg",
+              "width": 600
+            },
+            {
+              "height": 103,
+              "url": "http://a.mktgcdn.com/p-sandbox/YHdlUGQlu-sdj3GNMGKqv92qcHod4l9J5BtjA7GOhlo/196x103.jpg",
+              "width": 196
             }
           ],
-          "url": "https://a.mktgcdn.com/p/NIb_6lhCZy78Vx19Hxx9zzA4pre4_f3eZLuTFXiqljQ/1560x817.jpg",
+          "url": "http://a.mktgcdn.com/p-sandbox/YHdlUGQlu-sdj3GNMGKqv92qcHod4l9J5BtjA7GOhlo/1560x817.jpg",
           "width": 1560
         }
       },
       {
         "image": {
           "height": 3024,
-          "sourceUrl": "https://engblog.yext.com/img/2019-05-01-codenation-visit-spring-2019/arrival2.jpg",
+          "sourceUrl": "https://a.mktgcdn.com/p/SOd96TOl8eXGdgThYmtEdmAYgfHz_o9Lw1hB95B_5lk/4032x3024.jpg",
           "thumbnails": [
             {
               "height": 3024,
-              "url": "https://a.mktgcdn.com/p/SOd96TOl8eXGdgThYmtEdmAYgfHz_o9Lw1hB95B_5lk/4032x3024.jpg",
+              "url": "http://a.mktgcdn.com/p-sandbox/Qefgk5LT_q1_ic1oFlRHl_3LH58YfNqCgopkrviyWaI/4032x3024.jpg",
               "width": 4032
+            },
+            {
+              "height": 1425,
+              "url": "http://a.mktgcdn.com/p-sandbox/Qefgk5LT_q1_ic1oFlRHl_3LH58YfNqCgopkrviyWaI/1900x1425.jpg",
+              "width": 1900
+            },
+            {
+              "height": 464,
+              "url": "http://a.mktgcdn.com/p-sandbox/Qefgk5LT_q1_ic1oFlRHl_3LH58YfNqCgopkrviyWaI/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p-sandbox/Qefgk5LT_q1_ic1oFlRHl_3LH58YfNqCgopkrviyWaI/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "http://a.mktgcdn.com/p-sandbox/Qefgk5LT_q1_ic1oFlRHl_3LH58YfNqCgopkrviyWaI/196x147.jpg",
+              "width": 196
             }
           ],
-          "url": "https://a.mktgcdn.com/p/SOd96TOl8eXGdgThYmtEdmAYgfHz_o9Lw1hB95B_5lk/4032x3024.jpg",
+          "url": "http://a.mktgcdn.com/p-sandbox/Qefgk5LT_q1_ic1oFlRHl_3LH58YfNqCgopkrviyWaI/4032x3024.jpg",
           "width": 4032
         }
       }

@@ -1,0 +1,11 @@
+{
+  "$id": "ce_productCategory.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Product Category-default",
+  "entityType": "ce_productCategory",
+  "fields": [
+    "richTextDescription",
+    "slug",
+    "c_relatedProducts"
+  ]
+}
